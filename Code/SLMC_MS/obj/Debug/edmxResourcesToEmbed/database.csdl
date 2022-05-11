@@ -1,0 +1,767 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="slmcModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="broadcastmsg">
+    <Key>
+      <PropertyRef Name="msgID" />
+    </Key>
+    <Property Name="msgID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="senderID" Type="String" MaxLength="5" FixedLength="false" Unicode="false" />
+    <Property Name="title" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="content" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="saveDate" Type="DateTime" />
+    <Property Name="deliveryDate" Type="DateTime" Nullable="false" />
+    <NavigationProperty Name="staff" Relationship="Self.broadcastmsg_fk" FromRole="broadcastmsg" ToRole="staff" />
+    <NavigationProperty Name="msgreceiver" Relationship="Self.msgreceiver_fk1" FromRole="broadcastmsg" ToRole="msgreceiver" />
+  </EntityType>
+  <EntityType Name="city">
+    <Key>
+      <PropertyRef Name="cityID" />
+    </Key>
+    <Property Name="cityID" Type="String" MaxLength="5" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="provinceID" Type="String" MaxLength="2" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="city1" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="city_ch" Type="String" MaxLength="15" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="province" Relationship="Self.city_fk" FromRole="city" ToRole="province" />
+    <NavigationProperty Name="order" Relationship="Self.order_fk2" FromRole="city" ToRole="order" />
+    <NavigationProperty Name="staff" Relationship="Self.staff_fk1" FromRole="city" ToRole="staff" />
+  </EntityType>
+  <EntityType Name="despatchnote">
+    <Key>
+      <PropertyRef Name="despatchID" />
+    </Key>
+    <Property Name="despatchID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="provinceID" Type="String" MaxLength="2" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="deliveryDate" Type="DateTime" />
+    <Property Name="storemen" Type="String" MaxLength="5" FixedLength="false" Unicode="false" />
+    <Property Name="clerk" Type="String" MaxLength="5" FixedLength="false" Unicode="false" />
+    <Property Name="packed" Type="String" MaxLength="1" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="province" Relationship="Self.despatchnote_fk1" FromRole="despatchnote" ToRole="province" />
+    <NavigationProperty Name="staff" Relationship="Self.despatchnote_fk2" FromRole="despatchnote" ToRole="staff" />
+    <NavigationProperty Name="staff1" Relationship="Self.despatchnote_fk3" FromRole="despatchnote" ToRole="staff" />
+    <NavigationProperty Name="order" Relationship="Self.order_fk4" FromRole="despatchnote" ToRole="order" />
+  </EntityType>
+  <EntityType Name="goodsreceiveitem">
+    <Key>
+      <PropertyRef Name="noteID" />
+      <PropertyRef Name="itemID" />
+    </Key>
+    <Property Name="noteID" Type="Int32" Nullable="false" />
+    <Property Name="itemID" Type="String" MaxLength="6" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="qty" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="goodsreceivenote" Relationship="Self.goodsreceiveitem_fk1" FromRole="goodsreceiveitem" ToRole="goodsreceivenote" />
+    <NavigationProperty Name="item" Relationship="Self.goodsreceiveitem_fk2" FromRole="goodsreceiveitem" ToRole="item" />
+  </EntityType>
+  <EntityType Name="goodsreceivenote">
+    <Key>
+      <PropertyRef Name="noteID" />
+    </Key>
+    <Property Name="noteID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="supplierID" Type="String" MaxLength="4" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="inwardDate" Type="DateTime" Nullable="false" />
+    <Property Name="confirmed" Type="String" MaxLength="1" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="goodsreceiveitem" Relationship="Self.goodsreceiveitem_fk1" FromRole="goodsreceivenote" ToRole="goodsreceiveitem" />
+    <NavigationProperty Name="supplier" Relationship="Self.goodsreceivenote_fk" FromRole="goodsreceivenote" ToRole="supplier" />
+  </EntityType>
+  <EntityType Name="invoice">
+    <Key>
+      <PropertyRef Name="invID" />
+    </Key>
+    <Property Name="invID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="orderID" Type="Int32" Nullable="false" />
+    <Property Name="invDate" Type="DateTime" Nullable="false" />
+    <Property Name="invAmt" Type="Double" Nullable="false" />
+    <Property Name="validated" Type="String" MaxLength="1" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="order" Relationship="Self.invoice_fk" FromRole="invoice" ToRole="order" />
+  </EntityType>
+  <EntityType Name="item">
+    <Key>
+      <PropertyRef Name="itemID" />
+    </Key>
+    <Property Name="itemID" Type="String" MaxLength="6" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="name" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="name_ch" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="description" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="orderedAmt" Type="Int32" Nullable="false" />
+    <Property Name="actualStock" Type="Int32" Nullable="false" />
+    <Property Name="locatedShelf" Type="String" MaxLength="5" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="dangerLevel" Type="Int32" />
+    <Property Name="reorderLevel" Type="Int32" />
+    <Property Name="supplierID" Type="String" MaxLength="4" FixedLength="false" Unicode="false" />
+    <Property Name="weight" Type="Double" Nullable="false" />
+    <NavigationProperty Name="goodsreceiveitem" Relationship="Self.goodsreceiveitem_fk2" FromRole="item" ToRole="goodsreceiveitem" />
+    <NavigationProperty Name="supplier" Relationship="Self.item_fk" FromRole="item" ToRole="supplier" />
+    <NavigationProperty Name="itemprice" Relationship="Self.itemprice_fk" FromRole="item" ToRole="itemprice" />
+    <NavigationProperty Name="orderitem" Relationship="Self.orderitem_fk2" FromRole="item" ToRole="orderitem" />
+    <NavigationProperty Name="replenishitem" Relationship="Self.replenishitem_fk2" FromRole="item" ToRole="replenishitem" />
+    <NavigationProperty Name="reserveditem" Relationship="Self.reserveditem_fk2" FromRole="item" ToRole="reserveditem" />
+  </EntityType>
+  <EntityType Name="itemprice">
+    <Key>
+      <PropertyRef Name="itemID" />
+      <PropertyRef Name="issueDate" />
+    </Key>
+    <Property Name="itemID" Type="String" MaxLength="6" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="issueDate" Type="DateTime" Nullable="false" />
+    <Property Name="purchasePrice" Type="Double" Nullable="false" />
+    <Property Name="sellingPrice" Type="Double" Nullable="false" />
+    <NavigationProperty Name="item" Relationship="Self.itemprice_fk" FromRole="itemprice" ToRole="item" />
+  </EntityType>
+  <EntityType Name="msgreceiver">
+    <Key>
+      <PropertyRef Name="msgID" />
+      <PropertyRef Name="receiverID" />
+    </Key>
+    <Property Name="msgID" Type="Int32" Nullable="false" />
+    <Property Name="receiverID" Type="String" MaxLength="5" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="readed" Type="String" MaxLength="1" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="broadcastmsg" Relationship="Self.msgreceiver_fk1" FromRole="msgreceiver" ToRole="broadcastmsg" />
+    <NavigationProperty Name="staff" Relationship="Self.msgreceiver_fk2" FromRole="msgreceiver" ToRole="staff" />
+  </EntityType>
+  <EntityType Name="order">
+    <Key>
+      <PropertyRef Name="orderID" />
+    </Key>
+    <Property Name="orderID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="dealerID" Type="String" MaxLength="6" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="expDeliverTime" Type="DateTime" Nullable="false" />
+    <Property Name="statusID" Type="String" MaxLength="4" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="invName" Type="String" MaxLength="25" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="invAddress" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="deliveryAddress" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="cityID" Type="String" MaxLength="5" FixedLength="false" Unicode="false" />
+    <Property Name="orderDate" Type="DateTime" Nullable="false" />
+    <Property Name="weight" Type="Double" Nullable="false" />
+    <Property Name="despatchID" Type="Int32" />
+    <NavigationProperty Name="city" Relationship="Self.order_fk2" FromRole="order" ToRole="city" />
+    <NavigationProperty Name="despatchnote" Relationship="Self.order_fk4" FromRole="order" ToRole="despatchnote" />
+    <NavigationProperty Name="invoice" Relationship="Self.invoice_fk" FromRole="order" ToRole="invoice" />
+    <NavigationProperty Name="staff" Relationship="Self.order_fk1" FromRole="order" ToRole="staff" />
+    <NavigationProperty Name="orderstatus" Relationship="Self.order_fk3" FromRole="order" ToRole="orderstatus" />
+    <NavigationProperty Name="orderitem" Relationship="Self.orderitem_fk1" FromRole="order" ToRole="orderitem" />
+  </EntityType>
+  <EntityType Name="orderitem">
+    <Key>
+      <PropertyRef Name="orderID" />
+      <PropertyRef Name="itemID" />
+    </Key>
+    <Property Name="orderID" Type="Int32" Nullable="false" />
+    <Property Name="itemID" Type="String" MaxLength="6" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="qty" Type="Int32" Nullable="false" />
+    <Property Name="subTotal" Type="Double" Nullable="false" />
+    <NavigationProperty Name="item" Relationship="Self.orderitem_fk2" FromRole="orderitem" ToRole="item" />
+    <NavigationProperty Name="order" Relationship="Self.orderitem_fk1" FromRole="orderitem" ToRole="order" />
+  </EntityType>
+  <EntityType Name="orderstatus">
+    <Key>
+      <PropertyRef Name="statusID" />
+    </Key>
+    <Property Name="statusID" Type="String" MaxLength="4" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="status" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="order" Relationship="Self.order_fk3" FromRole="orderstatus" ToRole="order" />
+  </EntityType>
+  <EntityType Name="province">
+    <Key>
+      <PropertyRef Name="provinceID" />
+    </Key>
+    <Property Name="provinceID" Type="String" MaxLength="2" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="province1" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="province_ch" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="city" Relationship="Self.city_fk" FromRole="province" ToRole="city" />
+    <NavigationProperty Name="despatchnote" Relationship="Self.despatchnote_fk1" FromRole="province" ToRole="despatchnote" />
+  </EntityType>
+  <EntityType Name="replenishitem">
+    <Key>
+      <PropertyRef Name="replenishitemID" />
+    </Key>
+    <Property Name="replenishitemID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="replenishmentID" Type="Int32" Nullable="false" />
+    <Property Name="itemID" Type="String" MaxLength="6" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="status" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="qty" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="item" Relationship="Self.replenishitem_fk2" FromRole="replenishitem" ToRole="item" />
+    <NavigationProperty Name="replenishment" Relationship="Self.replenishitem_fk1" FromRole="replenishitem" ToRole="replenishment" />
+  </EntityType>
+  <EntityType Name="replenishment">
+    <Key>
+      <PropertyRef Name="replenishmentID" />
+    </Key>
+    <Property Name="replenishmentID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="orderDate" Type="DateTime" Nullable="false" />
+    <NavigationProperty Name="replenishitem" Relationship="Self.replenishitem_fk1" FromRole="replenishment" ToRole="replenishitem" />
+  </EntityType>
+  <EntityType Name="reserveditem">
+    <Key>
+      <PropertyRef Name="reserveID" />
+    </Key>
+    <Property Name="reserveID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="dealerID" Type="String" MaxLength="5" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="itemID" Type="String" MaxLength="6" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="reservedAmt" Type="Int32" Nullable="false" />
+    <Property Name="availible" Type="String" MaxLength="1" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="completedDate" Type="DateTime" Nullable="false" />
+    <NavigationProperty Name="item" Relationship="Self.reserveditem_fk2" FromRole="reserveditem" ToRole="item" />
+    <NavigationProperty Name="staff" Relationship="Self.reserveditem_fk1" FromRole="reserveditem" ToRole="staff" />
+  </EntityType>
+  <EntityType Name="staff">
+    <Key>
+      <PropertyRef Name="staffID" />
+    </Key>
+    <Property Name="staffID" Type="String" MaxLength="5" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="name" Type="String" MaxLength="25" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="name_ch" Type="String" MaxLength="5" FixedLength="false" Unicode="false" />
+    <Property Name="positionID" Type="String" MaxLength="65" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="teamID" Type="String" MaxLength="5" FixedLength="false" Unicode="false" />
+    <Property Name="address" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="cityID" Type="String" MaxLength="5" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="broadcastmsg" Relationship="Self.broadcastmsg_fk" FromRole="staff" ToRole="broadcastmsg" />
+    <NavigationProperty Name="city" Relationship="Self.staff_fk1" FromRole="staff" ToRole="city" />
+    <NavigationProperty Name="despatchnote" Relationship="Self.despatchnote_fk2" FromRole="staff" ToRole="despatchnote" />
+    <NavigationProperty Name="despatchnote1" Relationship="Self.despatchnote_fk3" FromRole="staff" ToRole="despatchnote" />
+    <NavigationProperty Name="msgreceiver" Relationship="Self.msgreceiver_fk2" FromRole="staff" ToRole="msgreceiver" />
+    <NavigationProperty Name="order" Relationship="Self.order_fk1" FromRole="staff" ToRole="order" />
+    <NavigationProperty Name="reserveditem" Relationship="Self.reserveditem_fk1" FromRole="staff" ToRole="reserveditem" />
+    <NavigationProperty Name="staffposition" Relationship="Self.staff_fk2" FromRole="staff" ToRole="staffposition" />
+    <NavigationProperty Name="team" Relationship="Self.staff_fk3" FromRole="staff" ToRole="team" />
+    <NavigationProperty Name="team1" Relationship="Self.team_fk" FromRole="staff" ToRole="team" />
+    <NavigationProperty Name="user" Relationship="Self.user_fk" FromRole="staff" ToRole="user" />
+  </EntityType>
+  <EntityType Name="staffposition">
+    <Key>
+      <PropertyRef Name="positionID" />
+    </Key>
+    <Property Name="positionID" Type="String" MaxLength="3" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="position" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="staff" Relationship="Self.staff_fk2" FromRole="staffposition" ToRole="staff" />
+  </EntityType>
+  <EntityType Name="supplier">
+    <Key>
+      <PropertyRef Name="supplierID" />
+    </Key>
+    <Property Name="supplierID" Type="String" MaxLength="4" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="name" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="address" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="goodsreceivenote" Relationship="Self.goodsreceivenote_fk" FromRole="supplier" ToRole="goodsreceivenote" />
+    <NavigationProperty Name="item" Relationship="Self.item_fk" FromRole="supplier" ToRole="item" />
+  </EntityType>
+  <EntityType Name="target">
+    <Key>
+      <PropertyRef Name="teamID" />
+      <PropertyRef Name="month" />
+      <PropertyRef Name="year" />
+    </Key>
+    <Property Name="teamID" Type="String" MaxLength="5" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="month" Type="Int32" Nullable="false" />
+    <Property Name="year" Type="Int32" Nullable="false" />
+    <Property Name="target1" Type="Double" Nullable="false" />
+    <NavigationProperty Name="team" Relationship="Self.target_fk" FromRole="target" ToRole="team" />
+  </EntityType>
+  <EntityType Name="team">
+    <Key>
+      <PropertyRef Name="teamID" />
+    </Key>
+    <Property Name="teamID" Type="String" MaxLength="5" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="managerID" Type="String" MaxLength="5" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="staff" Relationship="Self.staff_fk3" FromRole="team" ToRole="staff" />
+    <NavigationProperty Name="staff1" Relationship="Self.team_fk" FromRole="team" ToRole="staff" />
+    <NavigationProperty Name="target" Relationship="Self.target_fk" FromRole="team" ToRole="target" />
+  </EntityType>
+  <EntityType Name="user">
+    <Key>
+      <PropertyRef Name="username" />
+    </Key>
+    <Property Name="username" Type="String" MaxLength="15" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="password" Type="String" MaxLength="15" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="category" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="staffID" Type="String" MaxLength="5" FixedLength="false" Unicode="false" />
+    <Property Name="disabled" Type="String" MaxLength="1" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="staff" Relationship="Self.user_fk" FromRole="user" ToRole="staff" />
+  </EntityType>
+  <Association Name="broadcastmsg_fk">
+    <End Role="staff" Type="Self.staff" Multiplicity="0..1" />
+    <End Role="broadcastmsg" Type="Self.broadcastmsg" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="staff">
+        <PropertyRef Name="staffID" />
+      </Principal>
+      <Dependent Role="broadcastmsg">
+        <PropertyRef Name="senderID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="msgreceiver_fk1">
+    <End Role="broadcastmsg" Type="Self.broadcastmsg" Multiplicity="1" />
+    <End Role="msgreceiver" Type="Self.msgreceiver" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="broadcastmsg">
+        <PropertyRef Name="msgID" />
+      </Principal>
+      <Dependent Role="msgreceiver">
+        <PropertyRef Name="msgID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="city_fk">
+    <End Role="province" Type="Self.province" Multiplicity="1" />
+    <End Role="city" Type="Self.city" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="province">
+        <PropertyRef Name="provinceID" />
+      </Principal>
+      <Dependent Role="city">
+        <PropertyRef Name="provinceID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="order_fk2">
+    <End Role="city" Type="Self.city" Multiplicity="0..1" />
+    <End Role="order" Type="Self.order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="city">
+        <PropertyRef Name="cityID" />
+      </Principal>
+      <Dependent Role="order">
+        <PropertyRef Name="cityID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="staff_fk1">
+    <End Role="city" Type="Self.city" Multiplicity="0..1" />
+    <End Role="staff" Type="Self.staff" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="city">
+        <PropertyRef Name="cityID" />
+      </Principal>
+      <Dependent Role="staff">
+        <PropertyRef Name="cityID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="despatchnote_fk1">
+    <End Role="province" Type="Self.province" Multiplicity="1" />
+    <End Role="despatchnote" Type="Self.despatchnote" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="province">
+        <PropertyRef Name="provinceID" />
+      </Principal>
+      <Dependent Role="despatchnote">
+        <PropertyRef Name="provinceID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="despatchnote_fk2">
+    <End Role="staff" Type="Self.staff" Multiplicity="0..1" />
+    <End Role="despatchnote" Type="Self.despatchnote" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="staff">
+        <PropertyRef Name="staffID" />
+      </Principal>
+      <Dependent Role="despatchnote">
+        <PropertyRef Name="storemen" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="despatchnote_fk3">
+    <End Role="staff" Type="Self.staff" Multiplicity="0..1" />
+    <End Role="despatchnote" Type="Self.despatchnote" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="staff">
+        <PropertyRef Name="staffID" />
+      </Principal>
+      <Dependent Role="despatchnote">
+        <PropertyRef Name="clerk" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="order_fk4">
+    <End Role="despatchnote" Type="Self.despatchnote" Multiplicity="0..1" />
+    <End Role="order" Type="Self.order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="despatchnote">
+        <PropertyRef Name="despatchID" />
+      </Principal>
+      <Dependent Role="order">
+        <PropertyRef Name="despatchID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="goodsreceiveitem_fk1">
+    <End Role="goodsreceivenote" Type="Self.goodsreceivenote" Multiplicity="1" />
+    <End Role="goodsreceiveitem" Type="Self.goodsreceiveitem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="goodsreceivenote">
+        <PropertyRef Name="noteID" />
+      </Principal>
+      <Dependent Role="goodsreceiveitem">
+        <PropertyRef Name="noteID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="goodsreceiveitem_fk2">
+    <End Role="item" Type="Self.item" Multiplicity="1" />
+    <End Role="goodsreceiveitem" Type="Self.goodsreceiveitem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="item">
+        <PropertyRef Name="itemID" />
+      </Principal>
+      <Dependent Role="goodsreceiveitem">
+        <PropertyRef Name="itemID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="goodsreceivenote_fk">
+    <End Role="supplier" Type="Self.supplier" Multiplicity="1" />
+    <End Role="goodsreceivenote" Type="Self.goodsreceivenote" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="supplier">
+        <PropertyRef Name="supplierID" />
+      </Principal>
+      <Dependent Role="goodsreceivenote">
+        <PropertyRef Name="supplierID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="invoice_fk">
+    <End Role="order" Type="Self.order" Multiplicity="1" />
+    <End Role="invoice" Type="Self.invoice" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="order">
+        <PropertyRef Name="orderID" />
+      </Principal>
+      <Dependent Role="invoice">
+        <PropertyRef Name="orderID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="item_fk">
+    <End Role="supplier" Type="Self.supplier" Multiplicity="0..1" />
+    <End Role="item" Type="Self.item" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="supplier">
+        <PropertyRef Name="supplierID" />
+      </Principal>
+      <Dependent Role="item">
+        <PropertyRef Name="supplierID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="itemprice_fk">
+    <End Role="item" Type="Self.item" Multiplicity="1" />
+    <End Role="itemprice" Type="Self.itemprice" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="item">
+        <PropertyRef Name="itemID" />
+      </Principal>
+      <Dependent Role="itemprice">
+        <PropertyRef Name="itemID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="orderitem_fk2">
+    <End Role="item" Type="Self.item" Multiplicity="1" />
+    <End Role="orderitem" Type="Self.orderitem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="item">
+        <PropertyRef Name="itemID" />
+      </Principal>
+      <Dependent Role="orderitem">
+        <PropertyRef Name="itemID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="replenishitem_fk2">
+    <End Role="item" Type="Self.item" Multiplicity="1" />
+    <End Role="replenishitem" Type="Self.replenishitem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="item">
+        <PropertyRef Name="itemID" />
+      </Principal>
+      <Dependent Role="replenishitem">
+        <PropertyRef Name="itemID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="reserveditem_fk2">
+    <End Role="item" Type="Self.item" Multiplicity="1" />
+    <End Role="reserveditem" Type="Self.reserveditem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="item">
+        <PropertyRef Name="itemID" />
+      </Principal>
+      <Dependent Role="reserveditem">
+        <PropertyRef Name="itemID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="msgreceiver_fk2">
+    <End Role="staff" Type="Self.staff" Multiplicity="1" />
+    <End Role="msgreceiver" Type="Self.msgreceiver" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="staff">
+        <PropertyRef Name="staffID" />
+      </Principal>
+      <Dependent Role="msgreceiver">
+        <PropertyRef Name="receiverID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="order_fk1">
+    <End Role="staff" Type="Self.staff" Multiplicity="1" />
+    <End Role="order" Type="Self.order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="staff">
+        <PropertyRef Name="staffID" />
+      </Principal>
+      <Dependent Role="order">
+        <PropertyRef Name="dealerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="order_fk3">
+    <End Role="orderstatus" Type="Self.orderstatus" Multiplicity="1" />
+    <End Role="order" Type="Self.order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="orderstatus">
+        <PropertyRef Name="statusID" />
+      </Principal>
+      <Dependent Role="order">
+        <PropertyRef Name="statusID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="orderitem_fk1">
+    <End Role="order" Type="Self.order" Multiplicity="1" />
+    <End Role="orderitem" Type="Self.orderitem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="order">
+        <PropertyRef Name="orderID" />
+      </Principal>
+      <Dependent Role="orderitem">
+        <PropertyRef Name="orderID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="replenishitem_fk1">
+    <End Role="replenishment" Type="Self.replenishment" Multiplicity="1" />
+    <End Role="replenishitem" Type="Self.replenishitem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="replenishment">
+        <PropertyRef Name="replenishmentID" />
+      </Principal>
+      <Dependent Role="replenishitem">
+        <PropertyRef Name="replenishmentID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="reserveditem_fk1">
+    <End Role="staff" Type="Self.staff" Multiplicity="1" />
+    <End Role="reserveditem" Type="Self.reserveditem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="staff">
+        <PropertyRef Name="staffID" />
+      </Principal>
+      <Dependent Role="reserveditem">
+        <PropertyRef Name="dealerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="staff_fk2">
+    <End Role="staffposition" Type="Self.staffposition" Multiplicity="1" />
+    <End Role="staff" Type="Self.staff" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="staffposition">
+        <PropertyRef Name="positionID" />
+      </Principal>
+      <Dependent Role="staff">
+        <PropertyRef Name="positionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="staff_fk3">
+    <End Role="team" Type="Self.team" Multiplicity="0..1" />
+    <End Role="staff" Type="Self.staff" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="team">
+        <PropertyRef Name="teamID" />
+      </Principal>
+      <Dependent Role="staff">
+        <PropertyRef Name="teamID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="team_fk">
+    <End Role="staff" Type="Self.staff" Multiplicity="0..1" />
+    <End Role="team" Type="Self.team" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="staff">
+        <PropertyRef Name="staffID" />
+      </Principal>
+      <Dependent Role="team">
+        <PropertyRef Name="managerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="user_fk">
+    <End Role="staff" Type="Self.staff" Multiplicity="0..1" />
+    <End Role="user" Type="Self.user" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="staff">
+        <PropertyRef Name="staffID" />
+      </Principal>
+      <Dependent Role="user">
+        <PropertyRef Name="staffID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="target_fk">
+    <End Role="team" Type="Self.team" Multiplicity="1" />
+    <End Role="target" Type="Self.target" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="team">
+        <PropertyRef Name="teamID" />
+      </Principal>
+      <Dependent Role="target">
+        <PropertyRef Name="teamID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="slmc" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="broadcastmsg" EntityType="Self.broadcastmsg" />
+    <EntitySet Name="city" EntityType="Self.city" />
+    <EntitySet Name="despatchnote" EntityType="Self.despatchnote" />
+    <EntitySet Name="goodsreceiveitem" EntityType="Self.goodsreceiveitem" />
+    <EntitySet Name="goodsreceivenote" EntityType="Self.goodsreceivenote" />
+    <EntitySet Name="invoice" EntityType="Self.invoice" />
+    <EntitySet Name="item" EntityType="Self.item" />
+    <EntitySet Name="itemprice" EntityType="Self.itemprice" />
+    <EntitySet Name="msgreceiver" EntityType="Self.msgreceiver" />
+    <EntitySet Name="order" EntityType="Self.order" />
+    <EntitySet Name="orderitem" EntityType="Self.orderitem" />
+    <EntitySet Name="orderstatus" EntityType="Self.orderstatus" />
+    <EntitySet Name="province" EntityType="Self.province" />
+    <EntitySet Name="replenishitem" EntityType="Self.replenishitem" />
+    <EntitySet Name="replenishment" EntityType="Self.replenishment" />
+    <EntitySet Name="reserveditem" EntityType="Self.reserveditem" />
+    <EntitySet Name="staff" EntityType="Self.staff" />
+    <EntitySet Name="staffposition" EntityType="Self.staffposition" />
+    <EntitySet Name="supplier" EntityType="Self.supplier" />
+    <EntitySet Name="target" EntityType="Self.target" />
+    <EntitySet Name="team" EntityType="Self.team" />
+    <EntitySet Name="user" EntityType="Self.user" />
+    <AssociationSet Name="broadcastmsg_fk" Association="Self.broadcastmsg_fk">
+      <End Role="staff" EntitySet="staff" />
+      <End Role="broadcastmsg" EntitySet="broadcastmsg" />
+    </AssociationSet>
+    <AssociationSet Name="msgreceiver_fk1" Association="Self.msgreceiver_fk1">
+      <End Role="broadcastmsg" EntitySet="broadcastmsg" />
+      <End Role="msgreceiver" EntitySet="msgreceiver" />
+    </AssociationSet>
+    <AssociationSet Name="city_fk" Association="Self.city_fk">
+      <End Role="province" EntitySet="province" />
+      <End Role="city" EntitySet="city" />
+    </AssociationSet>
+    <AssociationSet Name="order_fk2" Association="Self.order_fk2">
+      <End Role="city" EntitySet="city" />
+      <End Role="order" EntitySet="order" />
+    </AssociationSet>
+    <AssociationSet Name="staff_fk1" Association="Self.staff_fk1">
+      <End Role="city" EntitySet="city" />
+      <End Role="staff" EntitySet="staff" />
+    </AssociationSet>
+    <AssociationSet Name="despatchnote_fk1" Association="Self.despatchnote_fk1">
+      <End Role="province" EntitySet="province" />
+      <End Role="despatchnote" EntitySet="despatchnote" />
+    </AssociationSet>
+    <AssociationSet Name="despatchnote_fk2" Association="Self.despatchnote_fk2">
+      <End Role="staff" EntitySet="staff" />
+      <End Role="despatchnote" EntitySet="despatchnote" />
+    </AssociationSet>
+    <AssociationSet Name="despatchnote_fk3" Association="Self.despatchnote_fk3">
+      <End Role="staff" EntitySet="staff" />
+      <End Role="despatchnote" EntitySet="despatchnote" />
+    </AssociationSet>
+    <AssociationSet Name="order_fk4" Association="Self.order_fk4">
+      <End Role="despatchnote" EntitySet="despatchnote" />
+      <End Role="order" EntitySet="order" />
+    </AssociationSet>
+    <AssociationSet Name="goodsreceiveitem_fk1" Association="Self.goodsreceiveitem_fk1">
+      <End Role="goodsreceivenote" EntitySet="goodsreceivenote" />
+      <End Role="goodsreceiveitem" EntitySet="goodsreceiveitem" />
+    </AssociationSet>
+    <AssociationSet Name="goodsreceiveitem_fk2" Association="Self.goodsreceiveitem_fk2">
+      <End Role="item" EntitySet="item" />
+      <End Role="goodsreceiveitem" EntitySet="goodsreceiveitem" />
+    </AssociationSet>
+    <AssociationSet Name="goodsreceivenote_fk" Association="Self.goodsreceivenote_fk">
+      <End Role="supplier" EntitySet="supplier" />
+      <End Role="goodsreceivenote" EntitySet="goodsreceivenote" />
+    </AssociationSet>
+    <AssociationSet Name="invoice_fk" Association="Self.invoice_fk">
+      <End Role="order" EntitySet="order" />
+      <End Role="invoice" EntitySet="invoice" />
+    </AssociationSet>
+    <AssociationSet Name="item_fk" Association="Self.item_fk">
+      <End Role="supplier" EntitySet="supplier" />
+      <End Role="item" EntitySet="item" />
+    </AssociationSet>
+    <AssociationSet Name="itemprice_fk" Association="Self.itemprice_fk">
+      <End Role="item" EntitySet="item" />
+      <End Role="itemprice" EntitySet="itemprice" />
+    </AssociationSet>
+    <AssociationSet Name="orderitem_fk2" Association="Self.orderitem_fk2">
+      <End Role="item" EntitySet="item" />
+      <End Role="orderitem" EntitySet="orderitem" />
+    </AssociationSet>
+    <AssociationSet Name="replenishitem_fk2" Association="Self.replenishitem_fk2">
+      <End Role="item" EntitySet="item" />
+      <End Role="replenishitem" EntitySet="replenishitem" />
+    </AssociationSet>
+    <AssociationSet Name="reserveditem_fk2" Association="Self.reserveditem_fk2">
+      <End Role="item" EntitySet="item" />
+      <End Role="reserveditem" EntitySet="reserveditem" />
+    </AssociationSet>
+    <AssociationSet Name="msgreceiver_fk2" Association="Self.msgreceiver_fk2">
+      <End Role="staff" EntitySet="staff" />
+      <End Role="msgreceiver" EntitySet="msgreceiver" />
+    </AssociationSet>
+    <AssociationSet Name="order_fk1" Association="Self.order_fk1">
+      <End Role="staff" EntitySet="staff" />
+      <End Role="order" EntitySet="order" />
+    </AssociationSet>
+    <AssociationSet Name="order_fk3" Association="Self.order_fk3">
+      <End Role="orderstatus" EntitySet="orderstatus" />
+      <End Role="order" EntitySet="order" />
+    </AssociationSet>
+    <AssociationSet Name="orderitem_fk1" Association="Self.orderitem_fk1">
+      <End Role="order" EntitySet="order" />
+      <End Role="orderitem" EntitySet="orderitem" />
+    </AssociationSet>
+    <AssociationSet Name="replenishitem_fk1" Association="Self.replenishitem_fk1">
+      <End Role="replenishment" EntitySet="replenishment" />
+      <End Role="replenishitem" EntitySet="replenishitem" />
+    </AssociationSet>
+    <AssociationSet Name="reserveditem_fk1" Association="Self.reserveditem_fk1">
+      <End Role="staff" EntitySet="staff" />
+      <End Role="reserveditem" EntitySet="reserveditem" />
+    </AssociationSet>
+    <AssociationSet Name="staff_fk2" Association="Self.staff_fk2">
+      <End Role="staffposition" EntitySet="staffposition" />
+      <End Role="staff" EntitySet="staff" />
+    </AssociationSet>
+    <AssociationSet Name="staff_fk3" Association="Self.staff_fk3">
+      <End Role="team" EntitySet="team" />
+      <End Role="staff" EntitySet="staff" />
+    </AssociationSet>
+    <AssociationSet Name="team_fk" Association="Self.team_fk">
+      <End Role="staff" EntitySet="staff" />
+      <End Role="team" EntitySet="team" />
+    </AssociationSet>
+    <AssociationSet Name="user_fk" Association="Self.user_fk">
+      <End Role="staff" EntitySet="staff" />
+      <End Role="user" EntitySet="user" />
+    </AssociationSet>
+    <AssociationSet Name="target_fk" Association="Self.target_fk">
+      <End Role="team" EntitySet="team" />
+      <End Role="target" EntitySet="target" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

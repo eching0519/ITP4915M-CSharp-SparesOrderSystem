@@ -1,0 +1,491 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FCAD3058-8A67-4724-92ED-057405F86F29}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SLMC_MS</RootNamespace>
+    <AssemblyName>SLMC_MS</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.5.0.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.1, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.1\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BroadcastMessage\BroadcastMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BroadcastMessage\BroadcastMessage.Designer.cs">
+      <DependentUpon>BroadcastMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="broadcastmsg.cs">
+      <DependentUpon>database.tt</DependentUpon>
+    </Compile>
+    <Compile Include="city.cs">
+      <DependentUpon>database.tt</DependentUpon>
+    </Compile>
+    <Compile Include="database.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>database.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="database.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>database.tt</DependentUpon>
+    </Compile>
+    <Compile Include="database.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>database.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="DataMaintenance\ItemData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataMaintenance\ItemData.Designer.cs">
+      <DependentUpon>ItemData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataMaintenance\StaffData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataMaintenance\StaffData.Designer.cs">
+      <DependentUpon>StaffData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataMaintenance\SupplierData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataMaintenance\SupplierData.Designer.cs">
+      <DependentUpon>SupplierData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataMaintenance\SupplierList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataMaintenance\SupplierList.Designer.cs">
+      <DependentUpon>SupplierList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataMaintenance\TeamData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataMaintenance\TeamData.Designer.cs">
+      <DependentUpon>TeamData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataMaintenance\TeamMemberList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataMaintenance\TeamMemberList.Designer.cs">
+      <DependentUpon>TeamMemberList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataMaintenance\UserData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataMaintenance\UserData.Designer.cs">
+      <DependentUpon>UserData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="despatchnote.cs">
+      <DependentUpon>database.tt</DependentUpon>
+    </Compile>
+    <Compile Include="goodsreceiveitem.cs">
+      <DependentUpon>database.tt</DependentUpon>
+    </Compile>
+    <Compile Include="goodsreceivenote.cs">
+      <DependentUpon>database.tt</DependentUpon>
+    </Compile>
+    <Compile Include="invoice.cs">
+      <DependentUpon>database.tt</DependentUpon>
+    </Compile>
+    <Compile Include="item.cs">
+      <DependentUpon>database.tt</DependentUpon>
+    </Compile>
+    <Compile Include="itemprice.cs">
+      <DependentUpon>database.tt</DependentUpon>
+    </Compile>
+    <Compile Include="model\BroadcastMsgs.cs" />
+    <Compile Include="model\GoodsReceivedNotes.cs" />
+    <Compile Include="model\Invoice.cs" />
+    <Compile Include="msgreceiver.cs">
+      <DependentUpon>database.tt</DependentUpon>
+    </Compile>
+    <Compile Include="order.cs">
+      <DependentUpon>database.tt</DependentUpon>
+    </Compile>
+    <Compile Include="orderitem.cs">
+      <DependentUpon>database.tt</DependentUpon>
+    </Compile>
+    <Compile Include="orderstatus.cs">
+      <DependentUpon>database.tt</DependentUpon>
+    </Compile>
+    <Compile Include="province.cs">
+      <DependentUpon>database.tt</DependentUpon>
+    </Compile>
+    <Compile Include="replenishitem.cs">
+      <DependentUpon>database.tt</DependentUpon>
+    </Compile>
+    <Compile Include="replenishment.cs">
+      <DependentUpon>database.tt</DependentUpon>
+    </Compile>
+    <Compile Include="reserveditem.cs">
+      <DependentUpon>database.tt</DependentUpon>
+    </Compile>
+    <Compile Include="staff.cs">
+      <DependentUpon>database.tt</DependentUpon>
+    </Compile>
+    <Compile Include="staffposition.cs">
+      <DependentUpon>database.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Statistic\AreaRevenue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Statistic\AreaRevenue.Designer.cs">
+      <DependentUpon>AreaRevenue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Statistic\ItemSalesFigure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Statistic\ItemSalesFigure.Designer.cs">
+      <DependentUpon>ItemSalesFigure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="supplier.cs">
+      <DependentUpon>database.tt</DependentUpon>
+    </Compile>
+    <Compile Include="target.cs">
+      <DependentUpon>database.tt</DependentUpon>
+    </Compile>
+    <Compile Include="team.cs">
+      <DependentUpon>database.tt</DependentUpon>
+    </Compile>
+    <Compile Include="user.cs">
+      <DependentUpon>database.tt</DependentUpon>
+    </Compile>
+    <Compile Include="WareHouse\GoodReceivedNote.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WareHouse\GoodReceivedNote.Designer.cs">
+      <DependentUpon>GoodReceivedNote.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemRecord\ItemSearchingEngine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemRecord\ItemSearchingEngine.Designer.cs">
+      <DependentUpon>ItemSearchingEngine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemRecord\ReserveItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemRecord\ReserveItems.Designer.cs">
+      <DependentUpon>ReserveItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemRecord\SparePartsControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemRecord\SparePartsControl.Designer.cs">
+      <DependentUpon>SparePartsControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\LoginController.cs" />
+    <Compile Include="model\Cities.cs" />
+    <Compile Include="HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePage.Designer.cs">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\loginC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\loginC.Designer.cs">
+      <DependentUpon>loginC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="model\DespatchNotes.cs" />
+    <Compile Include="model\Items.cs" />
+    <Compile Include="model\OrderStatus.cs" />
+    <Compile Include="model\StaffPosition.cs" />
+    <Compile Include="model\Suppliers.cs" />
+    <Compile Include="model\Teams.cs" />
+    <Compile Include="Order\OrderHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order\OrderHistory.Designer.cs">
+      <DependentUpon>OrderHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="model\Orders.cs" />
+    <Compile Include="Order\CreateOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order\CreateOrder.Designer.cs">
+      <DependentUpon>CreateOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Order\ModifyOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order\ModifyOrder.Designer.cs">
+      <DependentUpon>ModifyOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Order\PackingOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order\PackingOrder.Designer.cs">
+      <DependentUpon>PackingOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Order\ProcessOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order\ProcessOrder.Designer.cs">
+      <DependentUpon>ProcessOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Order\OrderSearchEngine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order\OrderSearchEngine.Designer.cs">
+      <DependentUpon>OrderSearchEngine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Order\ViewOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order\ViewOrder.Designer.cs">
+      <DependentUpon>ViewOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PermissionDeniedException.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="model\Provinces.cs" />
+    <Compile Include="model\Staffs.cs" />
+    <Compile Include="model\Users.cs" />
+    <Compile Include="Order\DespatchOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order\DespatchOrder.Designer.cs">
+      <DependentUpon>DespatchOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WareHouse\GoodsReceivedNoteHandling.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WareHouse\GoodsReceivedNoteHandling.Designer.cs">
+      <DependentUpon>GoodsReceivedNoteHandling.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WareHouse\GoodsReceivingConfirmation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WareHouse\GoodsReceivingConfirmation.Designer.cs">
+      <DependentUpon>GoodsReceivingConfirmation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WareHouse\ReplenishStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WareHouse\ReplenishStock.Designer.cs">
+      <DependentUpon>ReplenishStock.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BroadcastMessage\BroadcastMessage.resx">
+      <DependentUpon>BroadcastMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataMaintenance\ItemData.resx">
+      <DependentUpon>ItemData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataMaintenance\StaffData.resx">
+      <DependentUpon>StaffData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataMaintenance\SupplierData.resx">
+      <DependentUpon>SupplierData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataMaintenance\SupplierList.resx">
+      <DependentUpon>SupplierList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataMaintenance\TeamData.resx">
+      <DependentUpon>TeamData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataMaintenance\TeamMemberList.resx">
+      <DependentUpon>TeamMemberList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataMaintenance\UserData.resx">
+      <DependentUpon>UserData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePage.resx">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemRecord\ItemSearchingEngine.resx">
+      <DependentUpon>ItemSearchingEngine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemRecord\ReserveItems.resx">
+      <DependentUpon>ReserveItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemRecord\SparePartsControl.resx">
+      <DependentUpon>SparePartsControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\loginC.resx">
+      <DependentUpon>loginC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\OrderHistory.resx">
+      <DependentUpon>OrderHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\CreateOrder.resx">
+      <DependentUpon>CreateOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\ModifyOrder.resx">
+      <DependentUpon>ModifyOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\PackingOrder.resx">
+      <DependentUpon>PackingOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\ProcessOrder.resx">
+      <DependentUpon>ProcessOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\OrderSearchEngine.resx">
+      <DependentUpon>OrderSearchEngine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\ViewOrder.resx">
+      <DependentUpon>ViewOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Order\DespatchOrder.resx">
+      <DependentUpon>DespatchOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Statistic\AreaRevenue.resx">
+      <DependentUpon>AreaRevenue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Statistic\ItemSalesFigure.resx">
+      <DependentUpon>ItemSalesFigure.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WareHouse\GoodReceivedNote.resx">
+      <DependentUpon>GoodReceivedNote.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WareHouse\GoodsReceivedNoteHandling.resx">
+      <DependentUpon>GoodsReceivedNoteHandling.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WareHouse\GoodsReceivingConfirmation.resx">
+      <DependentUpon>GoodsReceivingConfirmation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WareHouse\ReplenishStock.resx">
+      <DependentUpon>ReplenishStock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EntityDeploy Include="database.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>database.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="database.edmx.diagram">
+      <DependentUpon>database.edmx</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Logo Black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bricks-brickwall-brickwork-1092364.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\header_data-maintenance-user.jpg" />
+    <None Include="Resources\return_button_mouseover1.png" />
+    <None Include="Resources\return_button_mouseover.png" />
+    <None Include="Resources\return_button.png" />
+    <None Include="Resources\header_data-maintenance-staff2.jpg" />
+    <None Include="Resources\header_data-maintenance-staff1.jpg" />
+    <None Include="Resources\header_data-maintenance-staff.bmp" />
+    <None Include="Resources\header_data-maintenance-staff.jpg" />
+    <None Include="Resources\header_order-assembly1.jpg" />
+    <None Include="Resources\header_order-assembly.jpg" />
+    <None Include="Resources\header_new-order.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="database.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>database.edmx</DependentUpon>
+      <LastGenOutput>database.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="database.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>database.edmx</DependentUpon>
+      <LastGenOutput>database.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

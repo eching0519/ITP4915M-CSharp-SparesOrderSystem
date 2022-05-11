@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="95d17b6f11124ee6aa2075c4a20bc290" Name="Diagram1">
+        <EntityTypeShape EntityType="slmcModel.broadcastmsg" Width="1.5" PointX="10.5" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="slmcModel.city" Width="1.5" PointX="3" PointY="11" IsExpanded="true" />
+        <EntityTypeShape EntityType="slmcModel.despatchnote" Width="1.5" PointX="13.5" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="slmcModel.goodsreceiveitem" Width="1.5" PointX="10.5" PointY="24" IsExpanded="true" />
+        <EntityTypeShape EntityType="slmcModel.goodsreceivenote" Width="1.5" PointX="8.25" PointY="23.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="slmcModel.invoice" Width="1.5" PointX="7.5" PointY="15.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="slmcModel.item" Width="1.5" PointX="8.25" PointY="18" IsExpanded="true" />
+        <EntityTypeShape EntityType="slmcModel.itemprice" Width="1.5" PointX="10.5" PointY="15.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="slmcModel.msgreceiver" Width="1.5" PointX="12.75" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="slmcModel.order" Width="1.5" PointX="5.25" PointY="10" IsExpanded="true" />
+        <EntityTypeShape EntityType="slmcModel.orderitem" Width="1.5" PointX="10.5" PointY="12.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="slmcModel.orderstatus" Width="1.5" PointX="3" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="slmcModel.province" Width="1.5" PointX="0.75" PointY="11.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="slmcModel.replenishitem" Width="1.5" PointX="13.5" PointY="21" IsExpanded="true" />
+        <EntityTypeShape EntityType="slmcModel.replenishment" Width="1.5" PointX="11.25" PointY="27.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="slmcModel.reserveditem" Width="1.5" PointX="13.5" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="slmcModel.staff" Width="1.5" PointX="8.25" PointY="10" IsExpanded="true" />
+        <EntityTypeShape EntityType="slmcModel.staffposition" Width="1.5" PointX="6" PointY="7.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="slmcModel.supplier" Width="1.5" PointX="6" PointY="19.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="slmcModel.target" Width="1.5" PointX="12.75" PointY="18.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="slmcModel.team" Width="1.5" PointX="10.5" PointY="18.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="slmcModel.user" Width="1.5" PointX="10.5" PointY="20.875" IsExpanded="true" />
+        <AssociationConnector Association="slmcModel.broadcastmsg_fk" ManuallyRouted="false" />
+        <AssociationConnector Association="slmcModel.msgreceiver_fk1" ManuallyRouted="false" />
+        <AssociationConnector Association="slmcModel.city_fk" ManuallyRouted="false" />
+        <AssociationConnector Association="slmcModel.order_fk2" ManuallyRouted="false" />
+        <AssociationConnector Association="slmcModel.staff_fk1" ManuallyRouted="false" />
+        <AssociationConnector Association="slmcModel.despatchnote_fk1" ManuallyRouted="false" />
+        <AssociationConnector Association="slmcModel.despatchnote_fk2" ManuallyRouted="false" />
+        <AssociationConnector Association="slmcModel.despatchnote_fk3" ManuallyRouted="false" />
+        <AssociationConnector Association="slmcModel.order_fk4" ManuallyRouted="false" />
+        <AssociationConnector Association="slmcModel.goodsreceiveitem_fk1" ManuallyRouted="false" />
+        <AssociationConnector Association="slmcModel.goodsreceiveitem_fk2" ManuallyRouted="false" />
+        <AssociationConnector Association="slmcModel.goodsreceivenote_fk" ManuallyRouted="false" />
+        <AssociationConnector Association="slmcModel.invoice_fk" ManuallyRouted="false" />
+        <AssociationConnector Association="slmcModel.item_fk" ManuallyRouted="false" />
+        <AssociationConnector Association="slmcModel.itemprice_fk" ManuallyRouted="false" />
+        <AssociationConnector Association="slmcModel.orderitem_fk2" ManuallyRouted="false" />
+        <AssociationConnector Association="slmcModel.replenishitem_fk2" ManuallyRouted="false" />
+        <AssociationConnector Association="slmcModel.reserveditem_fk2" ManuallyRouted="false" />
+        <AssociationConnector Association="slmcModel.msgreceiver_fk2" ManuallyRouted="false" />
+        <AssociationConnector Association="slmcModel.order_fk1" ManuallyRouted="false" />
+        <AssociationConnector Association="slmcModel.order_fk3" ManuallyRouted="false" />
+        <AssociationConnector Association="slmcModel.orderitem_fk1" ManuallyRouted="false" />
+        <AssociationConnector Association="slmcModel.replenishitem_fk1" ManuallyRouted="false" />
+        <AssociationConnector Association="slmcModel.reserveditem_fk1" ManuallyRouted="false" />
+        <AssociationConnector Association="slmcModel.staff_fk2" ManuallyRouted="false" />
+        <AssociationConnector Association="slmcModel.staff_fk3" ManuallyRouted="false" />
+        <AssociationConnector Association="slmcModel.team_fk" ManuallyRouted="false" />
+        <AssociationConnector Association="slmcModel.user_fk" ManuallyRouted="false" />
+        <AssociationConnector Association="slmcModel.target_fk" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

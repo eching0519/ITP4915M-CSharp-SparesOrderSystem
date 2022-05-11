@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="slmcModelStoreContainer" CdmEntityContainer="slmc">
+    <EntitySetMapping Name="broadcastmsg">
+      <EntityTypeMapping TypeName="slmcModel.broadcastmsg">
+        <MappingFragment StoreEntitySet="broadcastmsg">
+          <ScalarProperty Name="msgID" ColumnName="msgID" />
+          <ScalarProperty Name="senderID" ColumnName="senderID" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="content" ColumnName="content" />
+          <ScalarProperty Name="saveDate" ColumnName="saveDate" />
+          <ScalarProperty Name="deliveryDate" ColumnName="deliveryDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="city">
+      <EntityTypeMapping TypeName="slmcModel.city">
+        <MappingFragment StoreEntitySet="city">
+          <ScalarProperty Name="cityID" ColumnName="cityID" />
+          <ScalarProperty Name="provinceID" ColumnName="provinceID" />
+          <ScalarProperty Name="city1" ColumnName="city" />
+          <ScalarProperty Name="city_ch" ColumnName="city_ch" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="despatchnote">
+      <EntityTypeMapping TypeName="slmcModel.despatchnote">
+        <MappingFragment StoreEntitySet="despatchnote">
+          <ScalarProperty Name="despatchID" ColumnName="despatchID" />
+          <ScalarProperty Name="provinceID" ColumnName="provinceID" />
+          <ScalarProperty Name="deliveryDate" ColumnName="deliveryDate" />
+          <ScalarProperty Name="storemen" ColumnName="storemen" />
+          <ScalarProperty Name="clerk" ColumnName="clerk" />
+          <ScalarProperty Name="packed" ColumnName="packed" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="goodsreceiveitem">
+      <EntityTypeMapping TypeName="slmcModel.goodsreceiveitem">
+        <MappingFragment StoreEntitySet="goodsreceiveitem">
+          <ScalarProperty Name="noteID" ColumnName="noteID" />
+          <ScalarProperty Name="itemID" ColumnName="itemID" />
+          <ScalarProperty Name="qty" ColumnName="qty" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="goodsreceivenote">
+      <EntityTypeMapping TypeName="slmcModel.goodsreceivenote">
+        <MappingFragment StoreEntitySet="goodsreceivenote">
+          <ScalarProperty Name="noteID" ColumnName="noteID" />
+          <ScalarProperty Name="supplierID" ColumnName="supplierID" />
+          <ScalarProperty Name="inwardDate" ColumnName="inwardDate" />
+          <ScalarProperty Name="confirmed" ColumnName="confirmed" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="invoice">
+      <EntityTypeMapping TypeName="slmcModel.invoice">
+        <MappingFragment StoreEntitySet="invoice">
+          <ScalarProperty Name="invID" ColumnName="invID" />
+          <ScalarProperty Name="orderID" ColumnName="orderID" />
+          <ScalarProperty Name="invDate" ColumnName="invDate" />
+          <ScalarProperty Name="invAmt" ColumnName="invAmt" />
+          <ScalarProperty Name="validated" ColumnName="validated" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="item">
+      <EntityTypeMapping TypeName="slmcModel.item">
+        <MappingFragment StoreEntitySet="item">
+          <ScalarProperty Name="itemID" ColumnName="itemID" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="name_ch" ColumnName="name_ch" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="orderedAmt" ColumnName="orderedAmt" />
+          <ScalarProperty Name="actualStock" ColumnName="actualStock" />
+          <ScalarProperty Name="locatedShelf" ColumnName="locatedShelf" />
+          <ScalarProperty Name="dangerLevel" ColumnName="dangerLevel" />
+          <ScalarProperty Name="reorderLevel" ColumnName="reorderLevel" />
+          <ScalarProperty Name="supplierID" ColumnName="supplierID" />
+          <ScalarProperty Name="weight" ColumnName="weight" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="itemprice">
+      <EntityTypeMapping TypeName="slmcModel.itemprice">
+        <MappingFragment StoreEntitySet="itemprice">
+          <ScalarProperty Name="itemID" ColumnName="itemID" />
+          <ScalarProperty Name="issueDate" ColumnName="issueDate" />
+          <ScalarProperty Name="purchasePrice" ColumnName="purchasePrice" />
+          <ScalarProperty Name="sellingPrice" ColumnName="sellingPrice" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="msgreceiver">
+      <EntityTypeMapping TypeName="slmcModel.msgreceiver">
+        <MappingFragment StoreEntitySet="msgreceiver">
+          <ScalarProperty Name="msgID" ColumnName="msgID" />
+          <ScalarProperty Name="receiverID" ColumnName="receiverID" />
+          <ScalarProperty Name="readed" ColumnName="readed" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="order">
+      <EntityTypeMapping TypeName="slmcModel.order">
+        <MappingFragment StoreEntitySet="order">
+          <ScalarProperty Name="orderID" ColumnName="orderID" />
+          <ScalarProperty Name="dealerID" ColumnName="dealerID" />
+          <ScalarProperty Name="expDeliverTime" ColumnName="expDeliverTime" />
+          <ScalarProperty Name="statusID" ColumnName="statusID" />
+          <ScalarProperty Name="invName" ColumnName="invName" />
+          <ScalarProperty Name="invAddress" ColumnName="invAddress" />
+          <ScalarProperty Name="deliveryAddress" ColumnName="deliveryAddress" />
+          <ScalarProperty Name="cityID" ColumnName="cityID" />
+          <ScalarProperty Name="orderDate" ColumnName="orderDate" />
+          <ScalarProperty Name="weight" ColumnName="weight" />
+          <ScalarProperty Name="despatchID" ColumnName="despatchID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="orderitem">
+      <EntityTypeMapping TypeName="slmcModel.orderitem">
+        <MappingFragment StoreEntitySet="orderitem">
+          <ScalarProperty Name="orderID" ColumnName="orderID" />
+          <ScalarProperty Name="itemID" ColumnName="itemID" />
+          <ScalarProperty Name="qty" ColumnName="qty" />
+          <ScalarProperty Name="subTotal" ColumnName="subTotal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="orderstatus">
+      <EntityTypeMapping TypeName="slmcModel.orderstatus">
+        <MappingFragment StoreEntitySet="orderstatus">
+          <ScalarProperty Name="statusID" ColumnName="statusID" />
+          <ScalarProperty Name="status" ColumnName="status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="province">
+      <EntityTypeMapping TypeName="slmcModel.province">
+        <MappingFragment StoreEntitySet="province">
+          <ScalarProperty Name="provinceID" ColumnName="provinceID" />
+          <ScalarProperty Name="province1" ColumnName="province" />
+          <ScalarProperty Name="province_ch" ColumnName="province_ch" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="replenishitem">
+      <EntityTypeMapping TypeName="slmcModel.replenishitem">
+        <MappingFragment StoreEntitySet="replenishitem">
+          <ScalarProperty Name="replenishitemID" ColumnName="replenishitemID" />
+          <ScalarProperty Name="replenishmentID" ColumnName="replenishmentID" />
+          <ScalarProperty Name="itemID" ColumnName="itemID" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="qty" ColumnName="qty" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="replenishment">
+      <EntityTypeMapping TypeName="slmcModel.replenishment">
+        <MappingFragment StoreEntitySet="replenishment">
+          <ScalarProperty Name="replenishmentID" ColumnName="replenishmentID" />
+          <ScalarProperty Name="orderDate" ColumnName="orderDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="reserveditem">
+      <EntityTypeMapping TypeName="slmcModel.reserveditem">
+        <MappingFragment StoreEntitySet="reserveditem">
+          <ScalarProperty Name="reserveID" ColumnName="reserveID" />
+          <ScalarProperty Name="dealerID" ColumnName="dealerID" />
+          <ScalarProperty Name="itemID" ColumnName="itemID" />
+          <ScalarProperty Name="reservedAmt" ColumnName="reservedAmt" />
+          <ScalarProperty Name="availible" ColumnName="availible" />
+          <ScalarProperty Name="completedDate" ColumnName="completedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="staff">
+      <EntityTypeMapping TypeName="slmcModel.staff">
+        <MappingFragment StoreEntitySet="staff">
+          <ScalarProperty Name="staffID" ColumnName="staffID" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="name_ch" ColumnName="name_ch" />
+          <ScalarProperty Name="positionID" ColumnName="positionID" />
+          <ScalarProperty Name="teamID" ColumnName="teamID" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="cityID" ColumnName="cityID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="staffposition">
+      <EntityTypeMapping TypeName="slmcModel.staffposition">
+        <MappingFragment StoreEntitySet="staffposition">
+          <ScalarProperty Name="positionID" ColumnName="positionID" />
+          <ScalarProperty Name="position" ColumnName="position" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="supplier">
+      <EntityTypeMapping TypeName="slmcModel.supplier">
+        <MappingFragment StoreEntitySet="supplier">
+          <ScalarProperty Name="supplierID" ColumnName="supplierID" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="address" ColumnName="address" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="target">
+      <EntityTypeMapping TypeName="slmcModel.target">
+        <MappingFragment StoreEntitySet="target">
+          <ScalarProperty Name="teamID" ColumnName="teamID" />
+          <ScalarProperty Name="month" ColumnName="month" />
+          <ScalarProperty Name="year" ColumnName="year" />
+          <ScalarProperty Name="target1" ColumnName="target" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="team">
+      <EntityTypeMapping TypeName="slmcModel.team">
+        <MappingFragment StoreEntitySet="team">
+          <ScalarProperty Name="teamID" ColumnName="teamID" />
+          <ScalarProperty Name="managerID" ColumnName="managerID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="user">
+      <EntityTypeMapping TypeName="slmcModel.user">
+        <MappingFragment StoreEntitySet="user">
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="category" ColumnName="category" />
+          <ScalarProperty Name="staffID" ColumnName="staffID" />
+          <ScalarProperty Name="disabled" ColumnName="disabled" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

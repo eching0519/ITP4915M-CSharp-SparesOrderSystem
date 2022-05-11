@@ -1,0 +1,983 @@
+C:\Users\EChing\Desktop\SLMC_MS\SLMC_MS\obj\Debug\SLMC_MS.csprojAssemblyReference.cache
+C:\Users\EChing\Desktop\SLMC_MS\SLMC_MS\obj\Debug\SLMC_MS.HomePage.resources
+C:\Users\EChing\Desktop\SLMC_MS\SLMC_MS\obj\Debug\SLMC_MS.NewFolder1.test.resources
+C:\Users\EChing\Desktop\SLMC_MS\SLMC_MS\obj\Debug\SLMC_MS.LoginS.resources
+C:\Users\EChing\Desktop\SLMC_MS\SLMC_MS\obj\Debug\SLMC_MS.loginC.resources
+C:\Users\EChing\Desktop\SLMC_MS\SLMC_MS\obj\Debug\SLMC_MS.OrderAssembly.resources
+C:\Users\EChing\Desktop\SLMC_MS\SLMC_MS\obj\Debug\SLMC_MS.OrderInformation.resources
+C:\Users\EChing\Desktop\SLMC_MS\SLMC_MS\obj\Debug\SLMC_MS.Order.OrderSearchEngine.resources
+C:\Users\EChing\Desktop\SLMC_MS\SLMC_MS\obj\Debug\SLMC_MS.csproj.GenerateResource.cache
+C:\Users\EChing\Desktop\SLMC_MS\SLMC_MS\bin\Debug\SLMC_MS.exe.config
+C:\Users\EChing\Desktop\SLMC_MS\SLMC_MS\bin\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS\SLMC_MS\bin\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS\SLMC_MS\obj\Debug\SLMC_MS.Properties.Resources.resources
+C:\Users\EChing\Desktop\SLMC_MS\SLMC_MS\obj\Debug\SLMC_MS.csproj.CoreCompileInputs.cache
+C:\Users\EChing\Desktop\SLMC_MS\SLMC_MS\obj\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS\SLMC_MS\obj\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS\SLMC_MS\bin\Debug\EntityFramework.dll
+C:\Users\EChing\Desktop\SLMC_MS\SLMC_MS\bin\Debug\EntityFramework.xml
+C:\Users\EChing\Desktop\SLMC_MS\SLMC_MS\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\EChing\Desktop\SLMC_MS\SLMC_MS\obj\Debug\SLMC_MS.csproj.CopyComplete
+C:\Users\EChing\Desktop\SLMC_MS\SLMC_MS\obj\Debug\SLMC_MS.AddStaff.resources
+C:\Users\EChing\Desktop\SLMC_MS\SLMC_MS\obj\Debug\SLMC_MS.AddUser.resources
+C:\Users\EChing\Desktop\SLMC_MS_0503\SLMC_MS\bin\Debug\SLMC_MS.exe.config
+C:\Users\EChing\Desktop\SLMC_MS_0503\SLMC_MS\bin\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0503\SLMC_MS\bin\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0503\SLMC_MS\bin\Debug\EntityFramework.dll
+C:\Users\EChing\Desktop\SLMC_MS_0503\SLMC_MS\bin\Debug\EntityFramework.xml
+C:\Users\EChing\Desktop\SLMC_MS_0503\SLMC_MS\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\EChing\Desktop\SLMC_MS_0503\SLMC_MS\obj\Debug\SLMC_MS.csprojAssemblyReference.cache
+C:\Users\EChing\Desktop\SLMC_MS_0503\SLMC_MS\obj\Debug\SLMC_MS.HomePage.resources
+C:\Users\EChing\Desktop\SLMC_MS_0503\SLMC_MS\obj\Debug\SLMC_MS.LoginS.resources
+C:\Users\EChing\Desktop\SLMC_MS_0503\SLMC_MS\obj\Debug\SLMC_MS.loginC.resources
+C:\Users\EChing\Desktop\SLMC_MS_0503\SLMC_MS\obj\Debug\SLMC_MS.OrderAssembly.resources
+C:\Users\EChing\Desktop\SLMC_MS_0503\SLMC_MS\obj\Debug\SLMC_MS.OrderInformation.resources
+C:\Users\EChing\Desktop\SLMC_MS_0503\SLMC_MS\obj\Debug\SLMC_MS.Order.OrderSearchEngine.resources
+C:\Users\EChing\Desktop\SLMC_MS_0503\SLMC_MS\obj\Debug\SLMC_MS.Properties.Resources.resources
+C:\Users\EChing\Desktop\SLMC_MS_0503\SLMC_MS\obj\Debug\SLMC_MS.AddStaff.resources
+C:\Users\EChing\Desktop\SLMC_MS_0503\SLMC_MS\obj\Debug\SLMC_MS.AddUser.resources
+C:\Users\EChing\Desktop\SLMC_MS_0503\SLMC_MS\obj\Debug\SLMC_MS.csproj.GenerateResource.cache
+C:\Users\EChing\Desktop\SLMC_MS_0503\SLMC_MS\obj\Debug\SLMC_MS.csproj.CoreCompileInputs.cache
+C:\Users\EChing\Desktop\SLMC_MS_0503\SLMC_MS\obj\Debug\SLMC_MS.csproj.CopyComplete
+C:\Users\EChing\Desktop\SLMC_MS_0503\SLMC_MS\obj\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0503\SLMC_MS\obj\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0503\SLMC_MS\obj\Debug\SLMC_MS.ItemRecord.AddItem.resources
+C:\Users\EChing\Desktop\SLMC_MS_0503\SLMC_MS\obj\Debug\SLMC_MS.CreateOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0504\SLMC_MS\bin\Debug\SLMC_MS.exe.config
+C:\Users\EChing\Desktop\SLMC_MS_0504\SLMC_MS\bin\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0504\SLMC_MS\bin\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0504\SLMC_MS\bin\Debug\EntityFramework.dll
+C:\Users\EChing\Desktop\SLMC_MS_0504\SLMC_MS\bin\Debug\EntityFramework.xml
+C:\Users\EChing\Desktop\SLMC_MS_0504\SLMC_MS\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\EChing\Desktop\SLMC_MS_0504\SLMC_MS\obj\Debug\SLMC_MS.csprojAssemblyReference.cache
+C:\Users\EChing\Desktop\SLMC_MS_0504\SLMC_MS\obj\Debug\SLMC_MS.HomePage.resources
+C:\Users\EChing\Desktop\SLMC_MS_0504\SLMC_MS\obj\Debug\SLMC_MS.LoginS.resources
+C:\Users\EChing\Desktop\SLMC_MS_0504\SLMC_MS\obj\Debug\SLMC_MS.loginC.resources
+C:\Users\EChing\Desktop\SLMC_MS_0504\SLMC_MS\obj\Debug\SLMC_MS.OrderAssembly.resources
+C:\Users\EChing\Desktop\SLMC_MS_0504\SLMC_MS\obj\Debug\SLMC_MS.OrderInformation.resources
+C:\Users\EChing\Desktop\SLMC_MS_0504\SLMC_MS\obj\Debug\SLMC_MS.CreateOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0504\SLMC_MS\obj\Debug\SLMC_MS.Order.OrderSearchEngine.resources
+C:\Users\EChing\Desktop\SLMC_MS_0504\SLMC_MS\obj\Debug\SLMC_MS.Properties.Resources.resources
+C:\Users\EChing\Desktop\SLMC_MS_0504\SLMC_MS\obj\Debug\SLMC_MS.AddStaff.resources
+C:\Users\EChing\Desktop\SLMC_MS_0504\SLMC_MS\obj\Debug\SLMC_MS.AddUser.resources
+C:\Users\EChing\Desktop\SLMC_MS_0504\SLMC_MS\obj\Debug\SLMC_MS.csproj.GenerateResource.cache
+C:\Users\EChing\Desktop\SLMC_MS_0504\SLMC_MS\obj\Debug\SLMC_MS.csproj.CoreCompileInputs.cache
+C:\Users\EChing\Desktop\SLMC_MS_0504\SLMC_MS\obj\Debug\SLMC_MS.csproj.CopyComplete
+C:\Users\EChing\Desktop\SLMC_MS_0504\SLMC_MS\obj\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0504\SLMC_MS\obj\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0504\SLMC_MS\obj\Debug\SLMC_MS.AddItem.resources
+C:\Users\EChing\Desktop\SLMC_MS_0505\SLMC_MS\obj\Debug\SLMC_MS.csprojAssemblyReference.cache
+C:\Users\EChing\Desktop\SLMC_MS_0505\SLMC_MS\obj\Debug\SLMC_MS.HomePage.resources
+C:\Users\EChing\Desktop\SLMC_MS_0505\SLMC_MS\obj\Debug\SLMC_MS.AddItem.resources
+C:\Users\EChing\Desktop\SLMC_MS_0505\SLMC_MS\obj\Debug\SLMC_MS.LoginS.resources
+C:\Users\EChing\Desktop\SLMC_MS_0505\SLMC_MS\obj\Debug\SLMC_MS.loginC.resources
+C:\Users\EChing\Desktop\SLMC_MS_0505\SLMC_MS\obj\Debug\SLMC_MS.OrderAssembly.resources
+C:\Users\EChing\Desktop\SLMC_MS_0505\SLMC_MS\obj\Debug\SLMC_MS.OrderInformation.resources
+C:\Users\EChing\Desktop\SLMC_MS_0505\SLMC_MS\obj\Debug\SLMC_MS.CreateOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0505\SLMC_MS\obj\Debug\SLMC_MS.Order.OrderSearchEngine.resources
+C:\Users\EChing\Desktop\SLMC_MS_0505\SLMC_MS\obj\Debug\SLMC_MS.Properties.Resources.resources
+C:\Users\EChing\Desktop\SLMC_MS_0505\SLMC_MS\obj\Debug\SLMC_MS.AddStaff.resources
+C:\Users\EChing\Desktop\SLMC_MS_0505\SLMC_MS\obj\Debug\SLMC_MS.AddUser.resources
+C:\Users\EChing\Desktop\SLMC_MS_0505\SLMC_MS\obj\Debug\SLMC_MS.csproj.GenerateResource.cache
+C:\Users\EChing\Desktop\SLMC_MS_0505\SLMC_MS\obj\Debug\SLMC_MS.csproj.CoreCompileInputs.cache
+C:\Users\EChing\Desktop\SLMC_MS_0505\SLMC_MS\obj\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0505\SLMC_MS\obj\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0505\SLMC_MS\bin\Debug\SLMC_MS.exe.config
+C:\Users\EChing\Desktop\SLMC_MS_0505\SLMC_MS\bin\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0505\SLMC_MS\bin\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0505\SLMC_MS\bin\Debug\EntityFramework.dll
+C:\Users\EChing\Desktop\SLMC_MS_0505\SLMC_MS\bin\Debug\EntityFramework.xml
+C:\Users\EChing\Desktop\SLMC_MS_0505\SLMC_MS\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\EChing\Desktop\SLMC_MS_0505\SLMC_MS\obj\Debug\SLMC_MS.csproj.CopyComplete
+C:\Users\EChing\Desktop\SLMC_MS_0505\SLMC_MS\obj\Debug\SLMC_MS.ModifyOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0505\SLMC_MS\obj\Debug\SLMC_MS.ViewOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0505\SLMC_MS\obj\Debug\SLMC_MS.ProcessOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0505\SLMC_MS\bin\Debug\MySql.Data.dll
+C:\Users\EChing\Desktop\SLMC_MS_0505\SLMC_MS\obj\Debug\SLMC_MS.OrderDespatch.resources
+C:\Users\EChing\Desktop\SLMC_MS_0513\SLMC_MS\bin\Debug\SLMC_MS.exe.config
+C:\Users\EChing\Desktop\SLMC_MS_0513\SLMC_MS\bin\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0513\SLMC_MS\bin\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0513\SLMC_MS\bin\Debug\EntityFramework.dll
+C:\Users\EChing\Desktop\SLMC_MS_0513\SLMC_MS\bin\Debug\MySql.Data.dll
+C:\Users\EChing\Desktop\SLMC_MS_0513\SLMC_MS\bin\Debug\EntityFramework.xml
+C:\Users\EChing\Desktop\SLMC_MS_0513\SLMC_MS\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\EChing\Desktop\SLMC_MS_0513\SLMC_MS\obj\Debug\SLMC_MS.csprojAssemblyReference.cache
+C:\Users\EChing\Desktop\SLMC_MS_0513\SLMC_MS\obj\Debug\SLMC_MS.HomePage.resources
+C:\Users\EChing\Desktop\SLMC_MS_0513\SLMC_MS\obj\Debug\SLMC_MS.AddItem.resources
+C:\Users\EChing\Desktop\SLMC_MS_0513\SLMC_MS\obj\Debug\SLMC_MS.LoginS.resources
+C:\Users\EChing\Desktop\SLMC_MS_0513\SLMC_MS\obj\Debug\SLMC_MS.loginC.resources
+C:\Users\EChing\Desktop\SLMC_MS_0513\SLMC_MS\obj\Debug\SLMC_MS.OrderAssembly.resources
+C:\Users\EChing\Desktop\SLMC_MS_0513\SLMC_MS\obj\Debug\SLMC_MS.OrderInformation.resources
+C:\Users\EChing\Desktop\SLMC_MS_0513\SLMC_MS\obj\Debug\SLMC_MS.CreateOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0513\SLMC_MS\obj\Debug\SLMC_MS.ModifyOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0513\SLMC_MS\obj\Debug\SLMC_MS.ProcessOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0513\SLMC_MS\obj\Debug\SLMC_MS.Order.OrderSearchEngine.resources
+C:\Users\EChing\Desktop\SLMC_MS_0513\SLMC_MS\obj\Debug\SLMC_MS.ViewOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0513\SLMC_MS\obj\Debug\SLMC_MS.Properties.Resources.resources
+C:\Users\EChing\Desktop\SLMC_MS_0513\SLMC_MS\obj\Debug\SLMC_MS.AddStaff.resources
+C:\Users\EChing\Desktop\SLMC_MS_0513\SLMC_MS\obj\Debug\SLMC_MS.AddUser.resources
+C:\Users\EChing\Desktop\SLMC_MS_0513\SLMC_MS\obj\Debug\SLMC_MS.csproj.GenerateResource.cache
+C:\Users\EChing\Desktop\SLMC_MS_0513\SLMC_MS\obj\Debug\SLMC_MS.csproj.CoreCompileInputs.cache
+C:\Users\EChing\Desktop\SLMC_MS_0513\SLMC_MS\obj\Debug\SLMC_MS.csproj.CopyComplete
+C:\Users\EChing\Desktop\SLMC_MS_0513\SLMC_MS\obj\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0513\SLMC_MS\obj\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0513\SLMC_MS\obj\Debug\SLMC_MS.PackingOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0513\SLMC_MS\obj\Debug\SLMC_MS.DespatchOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0515\SLMC_MS\bin\Debug\SLMC_MS.exe.config
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0515\SLMC_MS\bin\Debug\SLMC_MS.exe
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0515\SLMC_MS\bin\Debug\SLMC_MS.pdb
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0515\SLMC_MS\bin\Debug\EntityFramework.dll
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0515\SLMC_MS\bin\Debug\MySql.Data.dll
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0515\SLMC_MS\bin\Debug\EntityFramework.xml
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0515\SLMC_MS\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.csprojAssemblyReference.cache
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.HomePage.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.AddItem.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.LoginS.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.loginC.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.OrderAssembly.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.OrderInformation.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.CreateOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.ModifyOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.ProcessOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.Order.OrderSearchEngine.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.ViewOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.Properties.Resources.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.AddStaff.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.AddUser.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.DespatchOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.PackingOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.csproj.GenerateResource.cache
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.csproj.CoreCompileInputs.cache
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.csproj.CopyComplete
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.exe
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0515\SLMC_MS\bin\Debug\SLMC_MS.exe.config
+C:\Users\EChing\Desktop\SLMC_MS_0515\SLMC_MS\bin\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0515\SLMC_MS\bin\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0515\SLMC_MS\bin\Debug\EntityFramework.dll
+C:\Users\EChing\Desktop\SLMC_MS_0515\SLMC_MS\bin\Debug\MySql.Data.dll
+C:\Users\EChing\Desktop\SLMC_MS_0515\SLMC_MS\bin\Debug\EntityFramework.xml
+C:\Users\EChing\Desktop\SLMC_MS_0515\SLMC_MS\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\EChing\Desktop\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.csprojAssemblyReference.cache
+C:\Users\EChing\Desktop\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.HomePage.resources
+C:\Users\EChing\Desktop\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.AddItem.resources
+C:\Users\EChing\Desktop\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.LoginS.resources
+C:\Users\EChing\Desktop\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.loginC.resources
+C:\Users\EChing\Desktop\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.OrderAssembly.resources
+C:\Users\EChing\Desktop\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.OrderInformation.resources
+C:\Users\EChing\Desktop\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.CreateOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.ModifyOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.ProcessOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.Order.OrderSearchEngine.resources
+C:\Users\EChing\Desktop\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.ViewOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.Properties.Resources.resources
+C:\Users\EChing\Desktop\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.AddStaff.resources
+C:\Users\EChing\Desktop\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.AddUser.resources
+C:\Users\EChing\Desktop\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.DespatchOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.PackingOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.csproj.GenerateResource.cache
+C:\Users\EChing\Desktop\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.csproj.CoreCompileInputs.cache
+C:\Users\EChing\Desktop\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.csproj.CopyComplete
+C:\Users\EChing\Desktop\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0515\SLMC_MS\obj\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0516\SLMC_MS\bin\Debug\SLMC_MS.exe.config
+C:\Users\EChing\Desktop\SLMC_MS_0516\SLMC_MS\bin\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0516\SLMC_MS\bin\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0516\SLMC_MS\bin\Debug\EntityFramework.dll
+C:\Users\EChing\Desktop\SLMC_MS_0516\SLMC_MS\bin\Debug\MySql.Data.dll
+C:\Users\EChing\Desktop\SLMC_MS_0516\SLMC_MS\bin\Debug\EntityFramework.xml
+C:\Users\EChing\Desktop\SLMC_MS_0516\SLMC_MS\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\EChing\Desktop\SLMC_MS_0516\SLMC_MS\obj\Debug\SLMC_MS.csprojAssemblyReference.cache
+C:\Users\EChing\Desktop\SLMC_MS_0516\SLMC_MS\obj\Debug\SLMC_MS.HomePage.resources
+C:\Users\EChing\Desktop\SLMC_MS_0516\SLMC_MS\obj\Debug\SLMC_MS.AddItem.resources
+C:\Users\EChing\Desktop\SLMC_MS_0516\SLMC_MS\obj\Debug\SLMC_MS.loginC.resources
+C:\Users\EChing\Desktop\SLMC_MS_0516\SLMC_MS\obj\Debug\SLMC_MS.OrderAssembly.resources
+C:\Users\EChing\Desktop\SLMC_MS_0516\SLMC_MS\obj\Debug\SLMC_MS.OrderInformation.resources
+C:\Users\EChing\Desktop\SLMC_MS_0516\SLMC_MS\obj\Debug\SLMC_MS.CreateOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0516\SLMC_MS\obj\Debug\SLMC_MS.ModifyOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0516\SLMC_MS\obj\Debug\SLMC_MS.ProcessOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0516\SLMC_MS\obj\Debug\SLMC_MS.Order.OrderSearchEngine.resources
+C:\Users\EChing\Desktop\SLMC_MS_0516\SLMC_MS\obj\Debug\SLMC_MS.ViewOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0516\SLMC_MS\obj\Debug\SLMC_MS.Properties.Resources.resources
+C:\Users\EChing\Desktop\SLMC_MS_0516\SLMC_MS\obj\Debug\SLMC_MS.AddStaff.resources
+C:\Users\EChing\Desktop\SLMC_MS_0516\SLMC_MS\obj\Debug\SLMC_MS.AddUser.resources
+C:\Users\EChing\Desktop\SLMC_MS_0516\SLMC_MS\obj\Debug\SLMC_MS.DespatchOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0516\SLMC_MS\obj\Debug\SLMC_MS.PackingOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0516\SLMC_MS\obj\Debug\SLMC_MS.csproj.GenerateResource.cache
+C:\Users\EChing\Desktop\SLMC_MS_0516\SLMC_MS\obj\Debug\SLMC_MS.csproj.CoreCompileInputs.cache
+C:\Users\EChing\Desktop\SLMC_MS_0516\SLMC_MS\obj\Debug\SLMC_MS.csproj.CopyComplete
+C:\Users\EChing\Desktop\SLMC_MS_0516\SLMC_MS\obj\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0516\SLMC_MS\obj\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0516\SLMC_MS\obj\Debug\SLMC_MS.OrderHistory.resources
+C:\Users\EChing\Desktop\SLMC_MS_0516\SLMC_MS\obj\Debug\SLMC_MS.Login.resources
+C:\Users\EChing\Desktop\SLMC_MS_0519\SLMC_MS\bin\Debug\SLMC_MS.exe.config
+C:\Users\EChing\Desktop\SLMC_MS_0519\SLMC_MS\bin\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0519\SLMC_MS\bin\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0519\SLMC_MS\bin\Debug\EntityFramework.dll
+C:\Users\EChing\Desktop\SLMC_MS_0519\SLMC_MS\bin\Debug\MySql.Data.dll
+C:\Users\EChing\Desktop\SLMC_MS_0519\SLMC_MS\bin\Debug\EntityFramework.xml
+C:\Users\EChing\Desktop\SLMC_MS_0519\SLMC_MS\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\EChing\Desktop\SLMC_MS_0519\SLMC_MS\obj\Debug\SLMC_MS.csprojAssemblyReference.cache
+C:\Users\EChing\Desktop\SLMC_MS_0519\SLMC_MS\obj\Debug\SLMC_MS.HomePage.resources
+C:\Users\EChing\Desktop\SLMC_MS_0519\SLMC_MS\obj\Debug\SLMC_MS.AddItem.resources
+C:\Users\EChing\Desktop\SLMC_MS_0519\SLMC_MS\obj\Debug\SLMC_MS.Login.resources
+C:\Users\EChing\Desktop\SLMC_MS_0519\SLMC_MS\obj\Debug\SLMC_MS.loginC.resources
+C:\Users\EChing\Desktop\SLMC_MS_0519\SLMC_MS\obj\Debug\SLMC_MS.OrderAssembly.resources
+C:\Users\EChing\Desktop\SLMC_MS_0519\SLMC_MS\obj\Debug\SLMC_MS.OrderHistory.resources
+C:\Users\EChing\Desktop\SLMC_MS_0519\SLMC_MS\obj\Debug\SLMC_MS.OrderInformation.resources
+C:\Users\EChing\Desktop\SLMC_MS_0519\SLMC_MS\obj\Debug\SLMC_MS.CreateOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0519\SLMC_MS\obj\Debug\SLMC_MS.ModifyOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0519\SLMC_MS\obj\Debug\SLMC_MS.ProcessOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0519\SLMC_MS\obj\Debug\SLMC_MS.Order.OrderSearchEngine.resources
+C:\Users\EChing\Desktop\SLMC_MS_0519\SLMC_MS\obj\Debug\SLMC_MS.ViewOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0519\SLMC_MS\obj\Debug\SLMC_MS.Properties.Resources.resources
+C:\Users\EChing\Desktop\SLMC_MS_0519\SLMC_MS\obj\Debug\SLMC_MS.AddStaff.resources
+C:\Users\EChing\Desktop\SLMC_MS_0519\SLMC_MS\obj\Debug\SLMC_MS.AddUser.resources
+C:\Users\EChing\Desktop\SLMC_MS_0519\SLMC_MS\obj\Debug\SLMC_MS.DespatchOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0519\SLMC_MS\obj\Debug\SLMC_MS.PackingOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0519\SLMC_MS\obj\Debug\SLMC_MS.csproj.GenerateResource.cache
+C:\Users\EChing\Desktop\SLMC_MS_0519\SLMC_MS\obj\Debug\SLMC_MS.csproj.CoreCompileInputs.cache
+C:\Users\EChing\Desktop\SLMC_MS_0519\SLMC_MS\obj\Debug\SLMC_MS.csproj.CopyComplete
+C:\Users\EChing\Desktop\SLMC_MS_0519\SLMC_MS\obj\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0519\SLMC_MS\obj\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0519\SLMC_MS\obj\Debug\SLMC_MS.DangerLineAmendment.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520\SLMC_MS\obj\Debug\SLMC_MS.csprojAssemblyReference.cache
+C:\Users\EChing\Desktop\SLMC_MS_0520\SLMC_MS\obj\Debug\SLMC_MS.HomePage.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520\SLMC_MS\obj\Debug\SLMC_MS.AddItem.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520\SLMC_MS\obj\Debug\SLMC_MS.DangerLineAmendment.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520\SLMC_MS\obj\Debug\SLMC_MS.Login.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520\SLMC_MS\obj\Debug\SLMC_MS.loginC.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520\SLMC_MS\obj\Debug\SLMC_MS.OrderAssembly.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520\SLMC_MS\obj\Debug\SLMC_MS.OrderHistory.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520\SLMC_MS\obj\Debug\SLMC_MS.OrderInformation.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520\SLMC_MS\obj\Debug\SLMC_MS.CreateOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520\SLMC_MS\obj\Debug\SLMC_MS.ModifyOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520\SLMC_MS\obj\Debug\SLMC_MS.ProcessOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520\SLMC_MS\obj\Debug\SLMC_MS.Order.OrderSearchEngine.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520\SLMC_MS\obj\Debug\SLMC_MS.ViewOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520\SLMC_MS\obj\Debug\SLMC_MS.Properties.Resources.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520\SLMC_MS\obj\Debug\SLMC_MS.AddStaff.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520\SLMC_MS\obj\Debug\SLMC_MS.AddUser.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520\SLMC_MS\obj\Debug\SLMC_MS.DespatchOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520\SLMC_MS\obj\Debug\SLMC_MS.PackingOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520\SLMC_MS\obj\Debug\SLMC_MS.csproj.GenerateResource.cache
+C:\Users\EChing\Desktop\SLMC_MS_0520\SLMC_MS\obj\Debug\SLMC_MS.csproj.CoreCompileInputs.cache
+C:\Users\EChing\Desktop\SLMC_MS_0520\SLMC_MS\obj\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0520\SLMC_MS\obj\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0520\SLMC_MS\bin\Debug\SLMC_MS.exe.config
+C:\Users\EChing\Desktop\SLMC_MS_0520\SLMC_MS\bin\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0520\SLMC_MS\bin\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0520\SLMC_MS\bin\Debug\EntityFramework.dll
+C:\Users\EChing\Desktop\SLMC_MS_0520\SLMC_MS\bin\Debug\MySql.Data.dll
+C:\Users\EChing\Desktop\SLMC_MS_0520\SLMC_MS\bin\Debug\EntityFramework.xml
+C:\Users\EChing\Desktop\SLMC_MS_0520\SLMC_MS\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\EChing\Desktop\SLMC_MS_0520\SLMC_MS\obj\Debug\SLMC_MS.csproj.CopyComplete
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0520v2\SLMC_MS\bin\Debug\SLMC_MS.exe.config
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0520v2\SLMC_MS\bin\Debug\SLMC_MS.exe
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0520v2\SLMC_MS\bin\Debug\SLMC_MS.pdb
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0520v2\SLMC_MS\bin\Debug\EntityFramework.dll
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0520v2\SLMC_MS\bin\Debug\MySql.Data.dll
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0520v2\SLMC_MS\bin\Debug\EntityFramework.xml
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0520v2\SLMC_MS\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.csprojAssemblyReference.cache
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.HomePage.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.AddItem.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.DangerLineAmendment.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.Login.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.loginC.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.OrderAssembly.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.OrderHistory.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.OrderInformation.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.CreateOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.ModifyOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.ProcessOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.Order.OrderSearchEngine.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.ViewOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.Properties.Resources.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.AddStaff.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.AddUser.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.DespatchOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.PackingOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.csproj.GenerateResource.cache
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.csproj.CoreCompileInputs.cache
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.csproj.CopyComplete
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.exe
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0520v2\SLMC_MS\bin\Debug\SLMC_MS.exe.config
+C:\Users\EChing\Desktop\SLMC_MS_0520v2\SLMC_MS\bin\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0520v2\SLMC_MS\bin\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0520v2\SLMC_MS\bin\Debug\EntityFramework.dll
+C:\Users\EChing\Desktop\SLMC_MS_0520v2\SLMC_MS\bin\Debug\MySql.Data.dll
+C:\Users\EChing\Desktop\SLMC_MS_0520v2\SLMC_MS\bin\Debug\EntityFramework.xml
+C:\Users\EChing\Desktop\SLMC_MS_0520v2\SLMC_MS\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\EChing\Desktop\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.csprojAssemblyReference.cache
+C:\Users\EChing\Desktop\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.HomePage.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.AddItem.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.DangerLineAmendment.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.Login.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.loginC.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.OrderAssembly.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.OrderHistory.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.OrderInformation.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.CreateOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.ModifyOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.ProcessOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.Order.OrderSearchEngine.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.ViewOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.Properties.Resources.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.AddStaff.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.AddUser.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.DespatchOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.PackingOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.csproj.GenerateResource.cache
+C:\Users\EChing\Desktop\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.csproj.CoreCompileInputs.cache
+C:\Users\EChing\Desktop\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.csproj.CopyComplete
+C:\Users\EChing\Desktop\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0520v2\SLMC_MS\obj\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0521\SLMC_MS\bin\Debug\SLMC_MS.exe.config
+C:\Users\EChing\Desktop\SLMC_MS_0521\SLMC_MS\bin\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0521\SLMC_MS\bin\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0521\SLMC_MS\bin\Debug\EntityFramework.dll
+C:\Users\EChing\Desktop\SLMC_MS_0521\SLMC_MS\bin\Debug\MySql.Data.dll
+C:\Users\EChing\Desktop\SLMC_MS_0521\SLMC_MS\bin\Debug\EntityFramework.xml
+C:\Users\EChing\Desktop\SLMC_MS_0521\SLMC_MS\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\EChing\Desktop\SLMC_MS_0521\SLMC_MS\obj\Debug\SLMC_MS.csprojAssemblyReference.cache
+C:\Users\EChing\Desktop\SLMC_MS_0521\SLMC_MS\obj\Debug\SLMC_MS.HomePage.resources
+C:\Users\EChing\Desktop\SLMC_MS_0521\SLMC_MS\obj\Debug\SLMC_MS.AddItem.resources
+C:\Users\EChing\Desktop\SLMC_MS_0521\SLMC_MS\obj\Debug\SLMC_MS.DangerLineAmendment.resources
+C:\Users\EChing\Desktop\SLMC_MS_0521\SLMC_MS\obj\Debug\SLMC_MS.Login.resources
+C:\Users\EChing\Desktop\SLMC_MS_0521\SLMC_MS\obj\Debug\SLMC_MS.loginC.resources
+C:\Users\EChing\Desktop\SLMC_MS_0521\SLMC_MS\obj\Debug\SLMC_MS.OrderAssembly.resources
+C:\Users\EChing\Desktop\SLMC_MS_0521\SLMC_MS\obj\Debug\SLMC_MS.OrderHistory.resources
+C:\Users\EChing\Desktop\SLMC_MS_0521\SLMC_MS\obj\Debug\SLMC_MS.OrderInformation.resources
+C:\Users\EChing\Desktop\SLMC_MS_0521\SLMC_MS\obj\Debug\SLMC_MS.CreateOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0521\SLMC_MS\obj\Debug\SLMC_MS.ModifyOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0521\SLMC_MS\obj\Debug\SLMC_MS.ProcessOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0521\SLMC_MS\obj\Debug\SLMC_MS.Order.OrderSearchEngine.resources
+C:\Users\EChing\Desktop\SLMC_MS_0521\SLMC_MS\obj\Debug\SLMC_MS.ViewOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0521\SLMC_MS\obj\Debug\SLMC_MS.Properties.Resources.resources
+C:\Users\EChing\Desktop\SLMC_MS_0521\SLMC_MS\obj\Debug\SLMC_MS.AddUser.resources
+C:\Users\EChing\Desktop\SLMC_MS_0521\SLMC_MS\obj\Debug\SLMC_MS.DespatchOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0521\SLMC_MS\obj\Debug\SLMC_MS.PackingOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0521\SLMC_MS\obj\Debug\SLMC_MS.csproj.GenerateResource.cache
+C:\Users\EChing\Desktop\SLMC_MS_0521\SLMC_MS\obj\Debug\SLMC_MS.csproj.CoreCompileInputs.cache
+C:\Users\EChing\Desktop\SLMC_MS_0521\SLMC_MS\obj\Debug\SLMC_MS.csproj.CopyComplete
+C:\Users\EChing\Desktop\SLMC_MS_0521\SLMC_MS\obj\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0521\SLMC_MS\obj\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0521\SLMC_MS\obj\Debug\SLMC_MS.StaffData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0521\SLMC_MS\obj\Debug\SLMC_MS.UserData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0523\SLMC_MS\bin\Debug\SLMC_MS.exe.config
+C:\Users\EChing\Desktop\SLMC_MS_0523\SLMC_MS\bin\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0523\SLMC_MS\bin\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0523\SLMC_MS\bin\Debug\EntityFramework.dll
+C:\Users\EChing\Desktop\SLMC_MS_0523\SLMC_MS\bin\Debug\MySql.Data.dll
+C:\Users\EChing\Desktop\SLMC_MS_0523\SLMC_MS\bin\Debug\EntityFramework.xml
+C:\Users\EChing\Desktop\SLMC_MS_0523\SLMC_MS\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\EChing\Desktop\SLMC_MS_0523\SLMC_MS\obj\Debug\SLMC_MS.csprojAssemblyReference.cache
+C:\Users\EChing\Desktop\SLMC_MS_0523\SLMC_MS\obj\Debug\SLMC_MS.StaffData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0523\SLMC_MS\obj\Debug\SLMC_MS.UserData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0523\SLMC_MS\obj\Debug\SLMC_MS.HomePage.resources
+C:\Users\EChing\Desktop\SLMC_MS_0523\SLMC_MS\obj\Debug\SLMC_MS.AddItem.resources
+C:\Users\EChing\Desktop\SLMC_MS_0523\SLMC_MS\obj\Debug\SLMC_MS.DangerLineAmendment.resources
+C:\Users\EChing\Desktop\SLMC_MS_0523\SLMC_MS\obj\Debug\SLMC_MS.Login.resources
+C:\Users\EChing\Desktop\SLMC_MS_0523\SLMC_MS\obj\Debug\SLMC_MS.loginC.resources
+C:\Users\EChing\Desktop\SLMC_MS_0523\SLMC_MS\obj\Debug\SLMC_MS.OrderAssembly.resources
+C:\Users\EChing\Desktop\SLMC_MS_0523\SLMC_MS\obj\Debug\SLMC_MS.OrderHistory.resources
+C:\Users\EChing\Desktop\SLMC_MS_0523\SLMC_MS\obj\Debug\SLMC_MS.OrderInformation.resources
+C:\Users\EChing\Desktop\SLMC_MS_0523\SLMC_MS\obj\Debug\SLMC_MS.CreateOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0523\SLMC_MS\obj\Debug\SLMC_MS.ModifyOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0523\SLMC_MS\obj\Debug\SLMC_MS.ProcessOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0523\SLMC_MS\obj\Debug\SLMC_MS.Order.OrderSearchEngine.resources
+C:\Users\EChing\Desktop\SLMC_MS_0523\SLMC_MS\obj\Debug\SLMC_MS.ViewOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0523\SLMC_MS\obj\Debug\SLMC_MS.Properties.Resources.resources
+C:\Users\EChing\Desktop\SLMC_MS_0523\SLMC_MS\obj\Debug\SLMC_MS.DespatchOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0523\SLMC_MS\obj\Debug\SLMC_MS.PackingOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0523\SLMC_MS\obj\Debug\SLMC_MS.csproj.GenerateResource.cache
+C:\Users\EChing\Desktop\SLMC_MS_0523\SLMC_MS\obj\Debug\SLMC_MS.csproj.CoreCompileInputs.cache
+C:\Users\EChing\Desktop\SLMC_MS_0523\SLMC_MS\obj\Debug\SLMC_MS.csproj.CopyComplete
+C:\Users\EChing\Desktop\SLMC_MS_0523\SLMC_MS\obj\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0523\SLMC_MS\obj\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0524\SLMC_MS\obj\Debug\SLMC_MS.csprojAssemblyReference.cache
+C:\Users\EChing\Desktop\SLMC_MS_0524\SLMC_MS\obj\Debug\SLMC_MS.StaffData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0524\SLMC_MS\obj\Debug\SLMC_MS.UserData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0524\SLMC_MS\obj\Debug\SLMC_MS.HomePage.resources
+C:\Users\EChing\Desktop\SLMC_MS_0524\SLMC_MS\obj\Debug\SLMC_MS.AddItem.resources
+C:\Users\EChing\Desktop\SLMC_MS_0524\SLMC_MS\obj\Debug\SLMC_MS.DangerLineAmendment.resources
+C:\Users\EChing\Desktop\SLMC_MS_0524\SLMC_MS\obj\Debug\SLMC_MS.Login.resources
+C:\Users\EChing\Desktop\SLMC_MS_0524\SLMC_MS\obj\Debug\SLMC_MS.loginC.resources
+C:\Users\EChing\Desktop\SLMC_MS_0524\SLMC_MS\obj\Debug\SLMC_MS.OrderAssembly.resources
+C:\Users\EChing\Desktop\SLMC_MS_0524\SLMC_MS\obj\Debug\SLMC_MS.OrderHistory.resources
+C:\Users\EChing\Desktop\SLMC_MS_0524\SLMC_MS\obj\Debug\SLMC_MS.OrderInformation.resources
+C:\Users\EChing\Desktop\SLMC_MS_0524\SLMC_MS\obj\Debug\SLMC_MS.CreateOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0524\SLMC_MS\obj\Debug\SLMC_MS.ModifyOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0524\SLMC_MS\obj\Debug\SLMC_MS.PackingOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0524\SLMC_MS\obj\Debug\SLMC_MS.ProcessOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0524\SLMC_MS\obj\Debug\SLMC_MS.Order.OrderSearchEngine.resources
+C:\Users\EChing\Desktop\SLMC_MS_0524\SLMC_MS\obj\Debug\SLMC_MS.Temp.resources
+C:\Users\EChing\Desktop\SLMC_MS_0524\SLMC_MS\obj\Debug\SLMC_MS.ViewOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0524\SLMC_MS\obj\Debug\SLMC_MS.Properties.Resources.resources
+C:\Users\EChing\Desktop\SLMC_MS_0524\SLMC_MS\obj\Debug\SLMC_MS.DespatchOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0524\SLMC_MS\obj\Debug\SLMC_MS.csproj.GenerateResource.cache
+C:\Users\EChing\Desktop\SLMC_MS_0524\SLMC_MS\obj\Debug\SLMC_MS.csproj.CoreCompileInputs.cache
+C:\Users\EChing\Desktop\SLMC_MS_0524\SLMC_MS\obj\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0524\SLMC_MS\obj\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0524\SLMC_MS\bin\Debug\SLMC_MS.exe.config
+C:\Users\EChing\Desktop\SLMC_MS_0524\SLMC_MS\bin\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0524\SLMC_MS\bin\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0524\SLMC_MS\bin\Debug\EntityFramework.dll
+C:\Users\EChing\Desktop\SLMC_MS_0524\SLMC_MS\bin\Debug\MySql.Data.dll
+C:\Users\EChing\Desktop\SLMC_MS_0524\SLMC_MS\bin\Debug\EntityFramework.xml
+C:\Users\EChing\Desktop\SLMC_MS_0524\SLMC_MS\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\EChing\Desktop\SLMC_MS_0524\SLMC_MS\obj\Debug\SLMC_MS.csproj.CopyComplete
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0525\SLMC_MS\bin\Debug\SLMC_MS.exe.config
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0525\SLMC_MS\bin\Debug\SLMC_MS.exe
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0525\SLMC_MS\bin\Debug\SLMC_MS.pdb
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0525\SLMC_MS\bin\Debug\EntityFramework.dll
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0525\SLMC_MS\bin\Debug\MySql.Data.dll
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0525\SLMC_MS\bin\Debug\EntityFramework.xml
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0525\SLMC_MS\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.csprojAssemblyReference.cache
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.StaffData.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.UserData.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.HomePage.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.AddItem.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.DangerLineAmendment.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.Login.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.loginC.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.OrderAssembly.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.OrderHistory.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.OrderInformation.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.CreateOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.ModifyOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.PackingOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.ProcessOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.Order.OrderSearchEngine.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.ViewOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.Properties.Resources.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.DespatchOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.csproj.GenerateResource.cache
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.csproj.CoreCompileInputs.cache
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.csproj.CopyComplete
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.exe
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0525\SLMC_MS\bin\Debug\SLMC_MS.exe.config
+C:\Users\EChing\Desktop\SLMC_MS_0525\SLMC_MS\bin\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0525\SLMC_MS\bin\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0525\SLMC_MS\bin\Debug\EntityFramework.dll
+C:\Users\EChing\Desktop\SLMC_MS_0525\SLMC_MS\bin\Debug\MySql.Data.dll
+C:\Users\EChing\Desktop\SLMC_MS_0525\SLMC_MS\bin\Debug\EntityFramework.xml
+C:\Users\EChing\Desktop\SLMC_MS_0525\SLMC_MS\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\EChing\Desktop\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.csprojAssemblyReference.cache
+C:\Users\EChing\Desktop\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.StaffData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.UserData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.HomePage.resources
+C:\Users\EChing\Desktop\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.DangerLineAmendment.resources
+C:\Users\EChing\Desktop\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.Login.resources
+C:\Users\EChing\Desktop\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.loginC.resources
+C:\Users\EChing\Desktop\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.OrderHistory.resources
+C:\Users\EChing\Desktop\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.CreateOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.ModifyOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.PackingOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.ProcessOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.Order.OrderSearchEngine.resources
+C:\Users\EChing\Desktop\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.ViewOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.Properties.Resources.resources
+C:\Users\EChing\Desktop\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.DespatchOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.csproj.GenerateResource.cache
+C:\Users\EChing\Desktop\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.csproj.CoreCompileInputs.cache
+C:\Users\EChing\Desktop\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.csproj.CopyComplete
+C:\Users\EChing\Desktop\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0525\SLMC_MS\obj\Debug\SLMC_MS.AddItem.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.csprojAssemblyReference.cache
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.ItemData.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.StaffData.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.UserData.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.HomePage.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.AddItem.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.DangerLineAmendment.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.Login.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.loginC.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.OrderHistory.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.CreateOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.ModifyOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.PackingOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.ProcessOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.Order.OrderSearchEngine.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.ViewOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.Properties.Resources.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.DespatchOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.csproj.GenerateResource.cache
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.csproj.CoreCompileInputs.cache
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.exe
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.pdb
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0530\SLMC_MS\bin\Debug\SLMC_MS.exe.config
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0530\SLMC_MS\bin\Debug\SLMC_MS.exe
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0530\SLMC_MS\bin\Debug\SLMC_MS.pdb
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0530\SLMC_MS\bin\Debug\EntityFramework.dll
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0530\SLMC_MS\bin\Debug\MySql.Data.dll
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0530\SLMC_MS\bin\Debug\EntityFramework.xml
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0530\SLMC_MS\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.csproj.CopyComplete
+C:\Users\EChing\Desktop\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.csprojAssemblyReference.cache
+C:\Users\EChing\Desktop\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.ItemData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.StaffData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.UserData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.HomePage.resources
+C:\Users\EChing\Desktop\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.Login.resources
+C:\Users\EChing\Desktop\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.loginC.resources
+C:\Users\EChing\Desktop\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.OrderHistory.resources
+C:\Users\EChing\Desktop\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.CreateOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.ModifyOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.PackingOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.ProcessOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.Order.OrderSearchEngine.resources
+C:\Users\EChing\Desktop\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.ViewOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.Properties.Resources.resources
+C:\Users\EChing\Desktop\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.DespatchOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.csproj.GenerateResource.cache
+C:\Users\EChing\Desktop\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.csproj.CoreCompileInputs.cache
+C:\Users\EChing\Desktop\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0530\SLMC_MS\bin\Debug\SLMC_MS.exe.config
+C:\Users\EChing\Desktop\SLMC_MS_0530\SLMC_MS\bin\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0530\SLMC_MS\bin\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0530\SLMC_MS\bin\Debug\EntityFramework.dll
+C:\Users\EChing\Desktop\SLMC_MS_0530\SLMC_MS\bin\Debug\MySql.Data.dll
+C:\Users\EChing\Desktop\SLMC_MS_0530\SLMC_MS\bin\Debug\EntityFramework.xml
+C:\Users\EChing\Desktop\SLMC_MS_0530\SLMC_MS\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\EChing\Desktop\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.csproj.CopyComplete
+C:\Users\EChing\Desktop\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.SparePartsControl.resources
+C:\Users\EChing\Desktop\SLMC_MS_0530\SLMC_MS\obj\Debug\SLMC_MS.SupplierList.resources
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\obj\Debug\SLMC_MS.csprojAssemblyReference.cache
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\obj\Debug\SLMC_MS.ItemData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\obj\Debug\SLMC_MS.StaffData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\obj\Debug\SLMC_MS.SupplierList.resources
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\obj\Debug\SLMC_MS.UserData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\obj\Debug\SLMC_MS.HomePage.resources
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\obj\Debug\SLMC_MS.SparePartsControl.resources
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\obj\Debug\SLMC_MS.Login.resources
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\obj\Debug\SLMC_MS.loginC.resources
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\obj\Debug\SLMC_MS.OrderHistory.resources
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\obj\Debug\SLMC_MS.CreateOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\obj\Debug\SLMC_MS.ModifyOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\obj\Debug\SLMC_MS.PackingOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\obj\Debug\SLMC_MS.ProcessOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\obj\Debug\SLMC_MS.ViewOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\obj\Debug\SLMC_MS.Properties.Resources.resources
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\obj\Debug\SLMC_MS.DespatchOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\obj\Debug\SLMC_MS.csproj.GenerateResource.cache
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\obj\Debug\SLMC_MS.csproj.CoreCompileInputs.cache
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\obj\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\obj\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\bin\Debug\SLMC_MS.exe.config
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\bin\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\bin\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\bin\Debug\EntityFramework.dll
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\bin\Debug\MySql.Data.dll
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\bin\Debug\EntityFramework.xml
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\obj\Debug\SLMC_MS.OrderSearchEngine.resources
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\obj\Debug\SLMC_MS.csproj.CopyComplete
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\obj\Debug\SLMC_MS.ItemSearchingEngine.resources
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\obj\Debug\SLMC_MS.SupplierData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\obj\Debug\SLMC_MS.TeamData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0531\SLMC_MS\obj\Debug\SLMC_MS.TeamMemberList.resources
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\bin\Debug\SLMC_MS.exe.config
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\bin\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\bin\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\bin\Debug\EntityFramework.dll
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\bin\Debug\MySql.Data.dll
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\bin\Debug\EntityFramework.xml
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\obj\Debug\SLMC_MS.csprojAssemblyReference.cache
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\obj\Debug\SLMC_MS.ItemData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\obj\Debug\SLMC_MS.StaffData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\obj\Debug\SLMC_MS.SupplierData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\obj\Debug\SLMC_MS.SupplierList.resources
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\obj\Debug\SLMC_MS.TeamData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\obj\Debug\SLMC_MS.TeamMemberList.resources
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\obj\Debug\SLMC_MS.UserData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\obj\Debug\SLMC_MS.HomePage.resources
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\obj\Debug\SLMC_MS.ItemSearchingEngine.resources
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\obj\Debug\SLMC_MS.SparePartsControl.resources
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\obj\Debug\SLMC_MS.Login.resources
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\obj\Debug\SLMC_MS.loginC.resources
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\obj\Debug\SLMC_MS.OrderHistory.resources
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\obj\Debug\SLMC_MS.CreateOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\obj\Debug\SLMC_MS.ModifyOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\obj\Debug\SLMC_MS.PackingOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\obj\Debug\SLMC_MS.ProcessOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\obj\Debug\SLMC_MS.OrderSearchEngine.resources
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\obj\Debug\SLMC_MS.ViewOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\obj\Debug\SLMC_MS.Properties.Resources.resources
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\obj\Debug\SLMC_MS.DespatchOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\obj\Debug\SLMC_MS.csproj.GenerateResource.cache
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\obj\Debug\SLMC_MS.csproj.CoreCompileInputs.cache
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\obj\Debug\SLMC_MS.csproj.CopyComplete
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\obj\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\obj\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0601\SLMC_MS\obj\Debug\SLMC_MS.ReserveItems.resources
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\bin\Debug\SLMC_MS.exe.config
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\bin\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\bin\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\bin\Debug\EntityFramework.dll
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\bin\Debug\MySql.Data.dll
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\bin\Debug\EntityFramework.xml
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\obj\Debug\SLMC_MS.csprojAssemblyReference.cache
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\obj\Debug\SLMC_MS.ItemData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\obj\Debug\SLMC_MS.StaffData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\obj\Debug\SLMC_MS.SupplierData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\obj\Debug\SLMC_MS.SupplierList.resources
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\obj\Debug\SLMC_MS.TeamData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\obj\Debug\SLMC_MS.TeamMemberList.resources
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\obj\Debug\SLMC_MS.UserData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\obj\Debug\SLMC_MS.HomePage.resources
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\obj\Debug\SLMC_MS.ItemSearchingEngine.resources
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\obj\Debug\SLMC_MS.ReserveItems.resources
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\obj\Debug\SLMC_MS.SparePartsControl.resources
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\obj\Debug\SLMC_MS.Login.resources
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\obj\Debug\SLMC_MS.loginC.resources
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\obj\Debug\SLMC_MS.OrderHistory.resources
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\obj\Debug\SLMC_MS.CreateOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\obj\Debug\SLMC_MS.ModifyOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\obj\Debug\SLMC_MS.PackingOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\obj\Debug\SLMC_MS.ProcessOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\obj\Debug\SLMC_MS.OrderSearchEngine.resources
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\obj\Debug\SLMC_MS.ViewOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\obj\Debug\SLMC_MS.Properties.Resources.resources
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\obj\Debug\SLMC_MS.DespatchOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\obj\Debug\SLMC_MS.csproj.GenerateResource.cache
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\obj\Debug\SLMC_MS.csproj.CoreCompileInputs.cache
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\obj\Debug\SLMC_MS.csproj.CopyComplete
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\obj\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0602\SLMC_MS\obj\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\bin\Debug\SLMC_MS.exe.config
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\bin\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\bin\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\bin\Debug\EntityFramework.dll
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\bin\Debug\MySql.Data.dll
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\bin\Debug\EntityFramework.xml
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\obj\Debug\SLMC_MS.csprojAssemblyReference.cache
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\obj\Debug\SLMC_MS.ItemData.resources
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\obj\Debug\SLMC_MS.StaffData.resources
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\obj\Debug\SLMC_MS.SupplierData.resources
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\obj\Debug\SLMC_MS.SupplierList.resources
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\obj\Debug\SLMC_MS.TeamData.resources
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\obj\Debug\SLMC_MS.TeamMemberList.resources
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\obj\Debug\SLMC_MS.UserData.resources
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\obj\Debug\SLMC_MS.HomePage.resources
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\obj\Debug\SLMC_MS.ItemSearchingEngine.resources
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\obj\Debug\SLMC_MS.ReserveItems.resources
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\obj\Debug\SLMC_MS.SparePartsControl.resources
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\obj\Debug\SLMC_MS.Login.resources
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\obj\Debug\SLMC_MS.loginC.resources
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\obj\Debug\SLMC_MS.OrderHistory.resources
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\obj\Debug\SLMC_MS.CreateOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\obj\Debug\SLMC_MS.ModifyOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\obj\Debug\SLMC_MS.PackingOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\obj\Debug\SLMC_MS.ProcessOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\obj\Debug\SLMC_MS.OrderSearchEngine.resources
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\obj\Debug\SLMC_MS.ViewOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\obj\Debug\SLMC_MS.Properties.Resources.resources
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\obj\Debug\SLMC_MS.DespatchOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\obj\Debug\SLMC_MS.csproj.GenerateResource.cache
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\obj\Debug\SLMC_MS.csproj.CoreCompileInputs.cache
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\obj\Debug\SLMC_MS.csproj.CopyComplete
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\obj\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_localhost\SLMC_MS\obj\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\bin\Debug\SLMC_MS.exe.config
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\bin\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\bin\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\bin\Debug\EntityFramework.dll
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\bin\Debug\MySql.Data.dll
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\bin\Debug\EntityFramework.xml
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\obj\Debug\SLMC_MS.csprojAssemblyReference.cache
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\obj\Debug\SLMC_MS.ItemData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\obj\Debug\SLMC_MS.StaffData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\obj\Debug\SLMC_MS.SupplierData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\obj\Debug\SLMC_MS.SupplierList.resources
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\obj\Debug\SLMC_MS.TeamData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\obj\Debug\SLMC_MS.TeamMemberList.resources
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\obj\Debug\SLMC_MS.UserData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\obj\Debug\SLMC_MS.HomePage.resources
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\obj\Debug\SLMC_MS.ItemSearchingEngine.resources
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\obj\Debug\SLMC_MS.ReserveItems.resources
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\obj\Debug\SLMC_MS.SparePartsControl.resources
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\obj\Debug\SLMC_MS.Login.resources
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\obj\Debug\SLMC_MS.loginC.resources
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\obj\Debug\SLMC_MS.OrderHistory.resources
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\obj\Debug\SLMC_MS.CreateOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\obj\Debug\SLMC_MS.ModifyOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\obj\Debug\SLMC_MS.PackingOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\obj\Debug\SLMC_MS.ProcessOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\obj\Debug\SLMC_MS.OrderSearchEngine.resources
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\obj\Debug\SLMC_MS.ViewOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\obj\Debug\SLMC_MS.Properties.Resources.resources
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\obj\Debug\SLMC_MS.DespatchOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\obj\Debug\SLMC_MS.GoodReceivedNote.resources
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\obj\Debug\SLMC_MS.GoodsReceivingConfirmation.resources
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\obj\Debug\SLMC_MS.csproj.GenerateResource.cache
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\obj\Debug\SLMC_MS.csproj.CoreCompileInputs.cache
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\obj\Debug\SLMC_MS.csproj.CopyComplete
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\obj\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\obj\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0605\SLMC_MS\obj\Debug\SLMC_MS.GoodsReceivedNoteHandling.resources
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\bin\Debug\SLMC_MS.exe.config
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\bin\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\bin\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\bin\Debug\EntityFramework.dll
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\bin\Debug\MySql.Data.dll
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\bin\Debug\EntityFramework.xml
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.csprojAssemblyReference.cache
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.ItemData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.StaffData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.SupplierData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.SupplierList.resources
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.TeamData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.TeamMemberList.resources
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.UserData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.HomePage.resources
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.ItemSearchingEngine.resources
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.ReserveItems.resources
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.SparePartsControl.resources
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.Login.resources
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.loginC.resources
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.OrderHistory.resources
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.CreateOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.ModifyOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.PackingOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.ProcessOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.OrderSearchEngine.resources
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.ViewOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.Properties.Resources.resources
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.DespatchOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.GoodReceivedNote.resources
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.GoodsReceivedNoteHandling.resources
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.GoodsReceivingConfirmation.resources
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.csproj.GenerateResource.cache
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.csproj.CoreCompileInputs.cache
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.csproj.CopyComplete
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.pdb
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\bin\Debug\SLMC_MS.exe.config
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\bin\Debug\SLMC_MS.exe
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\bin\Debug\SLMC_MS.pdb
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\bin\Debug\EntityFramework.dll
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\bin\Debug\MySql.Data.dll
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\bin\Debug\EntityFramework.xml
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.csprojAssemblyReference.cache
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.ItemData.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.StaffData.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.SupplierData.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.SupplierList.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.TeamData.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.TeamMemberList.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.UserData.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.HomePage.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.ItemSearchingEngine.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.ReserveItems.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.SparePartsControl.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.Login.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.loginC.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.OrderHistory.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.CreateOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.ModifyOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.PackingOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.ProcessOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.OrderSearchEngine.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.ViewOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.Properties.Resources.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.DespatchOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.GoodReceivedNote.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.GoodsReceivedNoteHandling.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.GoodsReceivingConfirmation.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.csproj.GenerateResource.cache
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.csproj.CoreCompileInputs.cache
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.csproj.CopyComplete
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.exe
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\Prototype\VisualStudioFile\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.RepenishStock.resources
+C:\Users\EChing\Desktop\SLMC_MS_0606\SLMC_MS\obj\Debug\SLMC_MS.AreaRevenue.resources
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.csprojAssemblyReference.cache
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.ItemData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.StaffData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.SupplierData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.SupplierList.resources
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.TeamData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.TeamMemberList.resources
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.UserData.resources
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.HomePage.resources
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.ItemSearchingEngine.resources
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.ReserveItems.resources
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.SparePartsControl.resources
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.Login.resources
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.loginC.resources
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.OrderHistory.resources
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.CreateOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.ModifyOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.PackingOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.ProcessOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.OrderSearchEngine.resources
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.ViewOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.Properties.Resources.resources
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.DespatchOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.AreaRevenue.resources
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.GoodReceivedNote.resources
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.GoodsReceivedNoteHandling.resources
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.GoodsReceivingConfirmation.resources
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.csproj.GenerateResource.cache
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.csproj.CoreCompileInputs.cache
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\bin\Debug\SLMC_MS.exe.config
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\bin\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\bin\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\bin\Debug\EntityFramework.dll
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\bin\Debug\MySql.Data.dll
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\bin\Debug\EntityFramework.xml
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.csproj.CopyComplete
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\bin\Debug\itextsharp.dll
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\bin\Debug\itextsharp.xml
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.ReplenishStock.resources
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.ItemSalesFigure.resources
+C:\Users\EChing\Desktop\SLMC_MS_0607\SLMC_MS\obj\Debug\SLMC_MS.BroadcastMessage.resources
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\bin\Debug\SLMC_MS.exe.config
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\bin\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\bin\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\bin\Debug\EntityFramework.dll
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\bin\Debug\itextsharp.dll
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\bin\Debug\MySql.Data.dll
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\bin\Debug\EntityFramework.xml
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\bin\Debug\itextsharp.xml
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.csprojAssemblyReference.cache
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.BroadcastMessage.resources
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.ItemData.resources
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.StaffData.resources
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.SupplierData.resources
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.SupplierList.resources
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.TeamData.resources
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.TeamMemberList.resources
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.UserData.resources
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.HomePage.resources
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.ItemSearchingEngine.resources
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.ReserveItems.resources
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.SparePartsControl.resources
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.Login.resources
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.loginC.resources
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.OrderHistory.resources
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.CreateOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.ModifyOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.PackingOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.ProcessOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.OrderSearchEngine.resources
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.ViewOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.Properties.Resources.resources
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.DespatchOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.AreaRevenue.resources
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.ItemSalesFigure.resources
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.GoodReceivedNote.resources
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.GoodsReceivedNoteHandling.resources
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.GoodsReceivingConfirmation.resources
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.ReplenishStock.resources
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.csproj.GenerateResource.cache
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.csproj.CoreCompileInputs.cache
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.csproj.CopyComplete
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_V2\SLMC_MS\obj\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\bin\Debug\SLMC_MS.exe.config
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\bin\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\bin\Debug\SLMC_MS.pdb
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\bin\Debug\EntityFramework.dll
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\bin\Debug\itextsharp.dll
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\bin\Debug\MySql.Data.dll
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\bin\Debug\EntityFramework.xml
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\bin\Debug\itextsharp.xml
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.csprojAssemblyReference.cache
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.BroadcastMessage.resources
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.ItemData.resources
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.StaffData.resources
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.SupplierData.resources
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.SupplierList.resources
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.TeamData.resources
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.TeamMemberList.resources
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.UserData.resources
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.HomePage.resources
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.ItemSearchingEngine.resources
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.ReserveItems.resources
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.SparePartsControl.resources
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.Login.resources
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.loginC.resources
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.OrderHistory.resources
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.CreateOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.ModifyOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.PackingOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.ProcessOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.OrderSearchEngine.resources
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.ViewOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.Properties.Resources.resources
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.DespatchOrder.resources
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.AreaRevenue.resources
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.ItemSalesFigure.resources
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.GoodReceivedNote.resources
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.GoodsReceivedNoteHandling.resources
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.GoodsReceivingConfirmation.resources
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.ReplenishStock.resources
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.csproj.GenerateResource.cache
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.csproj.CoreCompileInputs.cache
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.csproj.CopyComplete
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.exe
+C:\Users\EChing\Desktop\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.pdb
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\bin\Debug\SLMC_MS.exe.config
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\bin\Debug\SLMC_MS.exe
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\bin\Debug\SLMC_MS.pdb
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\bin\Debug\EntityFramework.dll
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\bin\Debug\itextsharp.dll
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\bin\Debug\MySql.Data.dll
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\bin\Debug\EntityFramework.xml
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\bin\Debug\itextsharp.xml
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.csprojAssemblyReference.cache
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.BroadcastMessage.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.ItemData.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.StaffData.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.SupplierData.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.SupplierList.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.TeamData.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.TeamMemberList.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.UserData.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.HomePage.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.ItemSearchingEngine.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.ReserveItems.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.SparePartsControl.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.Login.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.loginC.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.OrderHistory.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.CreateOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.ModifyOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.PackingOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.ProcessOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.OrderSearchEngine.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.ViewOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.Properties.Resources.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.DespatchOrder.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.AreaRevenue.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.ItemSalesFigure.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.GoodReceivedNote.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.GoodsReceivedNoteHandling.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.GoodsReceivingConfirmation.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.ReplenishStock.resources
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.csproj.GenerateResource.cache
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.csproj.CoreCompileInputs.cache
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.csproj.CopyComplete
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.exe
+C:\Users\EChing\OneDrive - Vocational Training Council\Work\System Development\SLMC_MS_V3\SLMC_MS\obj\Debug\SLMC_MS.pdb
